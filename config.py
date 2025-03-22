@@ -14,7 +14,7 @@ BASE_URL = 'https://api.football-data.org/v4/'
 
 # Folder paths
 DATA_FOLDER = 'Data_files'
-MATCHES_FOLDER = os.path.join(DATA_FOLDER, 'matches')
+MATCHES_FOLDER = os.path.join(DATA_FOLDER, 'matches_dates')
 GAMES_FOLDER = os.path.join(DATA_FOLDER, 'games')
 LOGS_FOLDER = os.path.join(DATA_FOLDER, 'logs')
 
