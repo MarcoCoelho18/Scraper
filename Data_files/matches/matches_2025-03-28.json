@@ -1,0 +1,47 @@
+[
+    {
+        "id": 502612,
+        "league_name": "Bundesliga",
+        "home_team_long": "Bayer 04 Leverkusen",
+        "home_team_short": "Leverkusen",
+        "away_team_long": "VfL Bochum 1848",
+        "away_team_short": "Bochum",
+        "date": "2025-03-28T19:30:00Z"
+    },
+    {
+        "id": 498188,
+        "league_name": "Ligue 1",
+        "home_team_long": "RC Strasbourg Alsace",
+        "home_team_short": "Strasbourg",
+        "away_team_long": "Olympique Lyonnais",
+        "away_team_short": "Olympique Lyon",
+        "date": "2025-03-28T19:45:00Z"
+    },
+    {
+        "id": 498893,
+        "league_name": "Primera Division",
+        "home_team_long": "Athletic Club",
+        "home_team_short": "Athletic",
+        "away_team_long": "CA Osasuna",
+        "away_team_short": "Osasuna",
+        "date": "2025-03-28T20:00:00Z"
+    },
+    {
+        "id": 502144,
+        "league_name": "Championship",
+        "home_team_long": "Sheffield United FC",
+        "home_team_short": "Sheffield Utd",
+        "away_team_long": "Coventry City FC",
+        "away_team_short": "Coventry City",
+        "date": "2025-03-28T20:00:00Z"
+    },
+    {
+        "id": 503811,
+        "league_name": "Primeira Liga",
+        "home_team_long": "Gil Vicente FC",
+        "home_team_short": "Gil Vicente",
+        "away_team_long": "Sport Lisboa e Benfica",
+        "away_team_short": "SL Benfica",
+        "date": "2025-03-28T20:15:00Z"
+    }
+]
