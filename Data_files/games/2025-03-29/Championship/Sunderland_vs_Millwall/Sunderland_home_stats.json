@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Sunderland wins": "6",
+        "Number of Sunderland draws": "4",
+        "Number of Sunderland loses": "0",
+        "Average scored goals per match": "1.6",
+        "Average conceded goals per match": "0.9",
+        "Chance to score goal next match": "100%",
+        "Chance to conceded goal next match": "70%",
+        "Number of clean sheet matches": "3",
+        "Failure to score matches": "0",
+        "Matches over 2.5 goals in": "5",
+        "Matches under 2.5 goals in": "5",
+        "Time without scored goal": "4 min.",
+        "Time without conceded goal": "25 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Sunderland": " 60%",
+            "draw": " 40%",
+            "opponent": " 0%"
+        },
+        "Halftime 1 X 2": {
+            "Sunderland": " 40%",
+            "draw": " 40%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "Sunderland": " 40%",
+            "draw": " 60%",
+            "opponent": " 0%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 80%",
+            "under": " 20%"
+        },
+        "Over/under 1.5 goals for Sunderland only": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 2.5 goals for Sunderland only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Over/under 3.5 goals for Sunderland only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 20%",
+            "2-3": " 60%",
+            "4+": " 20%"
+        },
+        "Team to score": {
+            "both": " 70%",
+            "only one": " 30%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 50%",
+            "even": " 50%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 16%",
+            "16-30 min.": " 16%",
+            "31-45 min.": " 16%",
+            "46-60 min.": " 16%",
+            "61-75 min.": " 20%",
+            "76-90 min.": " 16%"
+        },
+        "Sunderland goals only": {
+            "0-15 min.": " 19%",
+            "16-30 min.": " 19%",
+            "31-45 min.": " 6%",
+            "46-60 min.": " 13%",
+            "61-75 min.": " 25%",
+            "76-90 min.": " 19%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 30%",
+            "11-20 min.": " 30%",
+            "21-30 min.": " 20%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first Sunderland goal": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 30%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 20%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 10%",
+            "without goal": " 0%"
+        },
+        "First goal in matches": {
+            "Sunderland": " 60%",
+            "opponent": " 40%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Sunderland": " 30%",
+            "opponent": " 10%",
+            "draw": " 60%"
+        },
+        "Winner after 30 minutes": {
+            "Sunderland": " 60%",
+            "opponent": " 20%",
+            "draw": " 20%"
+        },
+        "Winner after 45 minutes": {
+            "Sunderland": " 40%",
+            "opponent": " 20%",
+            "draw": " 40%"
+        },
+        "Winner after 60 minutes": {
+            "Sunderland": " 40%",
+            "opponent": " 30%",
+            "draw": " 30%"
+        },
+        "Winner after 75 minutes": {
+            "Sunderland": " 60%",
+            "opponent": " 20%",
+            "draw": " 20%"
+        },
+        "Winner after 90 minutes": {
+            "Sunderland": " 60%",
+            "opponent": " 0%",
+            "draw": " 40%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 90%",
+            "2-3 goals": " 10%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 60%",
+            "second half": " 0%",
+            "tie": " 40%"
+        }
+    }
+}

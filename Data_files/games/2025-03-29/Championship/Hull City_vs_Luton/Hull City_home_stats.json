@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Hull City wins": "3",
+        "Number of Hull City draws": "4",
+        "Number of Hull City loses": "3",
+        "Average scored goals per match": "1.4",
+        "Average conceded goals per match": "1.3",
+        "Chance to score goal next match": "90%",
+        "Chance to conceded goal next match": "90%",
+        "Number of clean sheet matches": "1",
+        "Failure to score matches": "1",
+        "Matches over 2.5 goals in": "5",
+        "Matches under 2.5 goals in": "5",
+        "Time without scored goal": "17 min.",
+        "Time without conceded goal": "24 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Hull City": " 30%",
+            "draw": " 40%",
+            "opponent": " 30%"
+        },
+        "Halftime 1 X 2": {
+            "Hull City": " 20%",
+            "draw": " 80%",
+            "opponent": " 0%"
+        },
+        "Second half 1 X 2": {
+            "Hull City": " 30%",
+            "draw": " 20%",
+            "opponent": " 50%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 90%",
+            "under": " 10%"
+        },
+        "Over/under 1.5 goals for Hull City only": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 2.5 goals for Hull City only": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 goals for Hull City only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 10%",
+            "2-3": " 80%",
+            "4+": " 10%"
+        },
+        "Team to score": {
+            "both": " 80%",
+            "only one": " 20%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 50%",
+            "even": " 50%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 11%",
+            "16-30 min.": " 0%",
+            "31-45 min.": " 11%",
+            "46-60 min.": " 15%",
+            "61-75 min.": " 30%",
+            "76-90 min.": " 33%"
+        },
+        "Hull City goals only": {
+            "0-15 min.": " 21%",
+            "16-30 min.": " 0%",
+            "31-45 min.": " 7%",
+            "46-60 min.": " 7%",
+            "61-75 min.": " 14%",
+            "76-90 min.": " 50%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 20%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 20%",
+            "without goal": " 0%"
+        },
+        "Time of first Hull City goal": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 20%",
+            "81-90 min.": " 20%",
+            "without goal": " 10%"
+        },
+        "First goal in matches": {
+            "Hull City": " 60%",
+            "opponent": " 40%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Hull City": " 30%",
+            "opponent": " 0%",
+            "draw": " 70%"
+        },
+        "Winner after 30 minutes": {
+            "Hull City": " 30%",
+            "opponent": " 0%",
+            "draw": " 70%"
+        },
+        "Winner after 45 minutes": {
+            "Hull City": " 20%",
+            "opponent": " 0%",
+            "draw": " 80%"
+        },
+        "Winner after 60 minutes": {
+            "Hull City": " 10%",
+            "opponent": " 10%",
+            "draw": " 80%"
+        },
+        "Winner after 75 minutes": {
+            "Hull City": " 10%",
+            "opponent": " 40%",
+            "draw": " 50%"
+        },
+        "Winner after 90 minutes": {
+            "Hull City": " 30%",
+            "opponent": " 30%",
+            "draw": " 40%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 90%",
+            "2-3 goals": " 10%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 30%",
+            "second half": " 30%",
+            "tie": " 40%"
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Norwich wins": "4",
+        "Number of Norwich draws": "3",
+        "Number of Norwich loses": "3",
+        "Average scored goals per match": "1.8",
+        "Average conceded goals per match": "1.6",
+        "Chance to score goal next match": "80%",
+        "Chance to conceded goal next match": "100%",
+        "Number of clean sheet matches": "0",
+        "Failure to score matches": "2",
+        "Matches over 2.5 goals in": "6",
+        "Matches under 2.5 goals in": "4",
+        "Time without scored goal": "55 min.",
+        "Time without conceded goal": "14 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Norwich": " 40%",
+            "draw": " 30%",
+            "opponent": " 30%"
+        },
+        "Halftime 1 X 2": {
+            "Norwich": " 30%",
+            "draw": " 30%",
+            "opponent": " 40%"
+        },
+        "Second half 1 X 2": {
+            "Norwich": " 40%",
+            "draw": " 30%",
+            "opponent": " 30%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 90%",
+            "under": " 10%"
+        },
+        "Over/under 1.5 goals for Norwich only": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 2.5 goals for Norwich only": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 3.5 goals for Norwich only": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Goal bands": {
+            "0-1": " 10%",
+            "2-3": " 50%",
+            "4+": " 40%"
+        },
+        "Team to score": {
+            "both": " 80%",
+            "only one": " 20%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 40%",
+            "even": " 60%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 9%",
+            "16-30 min.": " 9%",
+            "31-45 min.": " 24%",
+            "46-60 min.": " 6%",
+            "61-75 min.": " 24%",
+            "76-90 min.": " 29%"
+        },
+        "Norwich goals only": {
+            "0-15 min.": " 11%",
+            "16-30 min.": " 6%",
+            "31-45 min.": " 22%",
+            "46-60 min.": " 6%",
+            "61-75 min.": " 17%",
+            "76-90 min.": " 39%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 30%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 20%",
+            "41-50 min.": " 20%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first Norwich goal": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 20%",
+            "without goal": " 20%"
+        },
+        "First goal in matches": {
+            "Norwich": " 60%",
+            "opponent": " 40%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Norwich": " 20%",
+            "opponent": " 10%",
+            "draw": " 70%"
+        },
+        "Winner after 30 minutes": {
+            "Norwich": " 20%",
+            "opponent": " 20%",
+            "draw": " 60%"
+        },
+        "Winner after 45 minutes": {
+            "Norwich": " 30%",
+            "opponent": " 40%",
+            "draw": " 30%"
+        },
+        "Winner after 60 minutes": {
+            "Norwich": " 40%",
+            "opponent": " 40%",
+            "draw": " 20%"
+        },
+        "Winner after 75 minutes": {
+            "Norwich": " 40%",
+            "opponent": " 40%",
+            "draw": " 20%"
+        },
+        "Winner after 90 minutes": {
+            "Norwich": " 40%",
+            "opponent": " 30%",
+            "draw": " 30%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 70%",
+            "2-3 goals": " 10%",
+            "4+ goals": " 20%"
+        },
+        "Half with most goals": {
+            "first half": " 40%",
+            "second half": " 30%",
+            "tie": " 30%"
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Almere City FC wins": "1",
+        "Number of Almere City FC draws": "2",
+        "Number of Almere City FC loses": "7",
+        "Average scored goals per match": "0.4",
+        "Average conceded goals per match": "1.7",
+        "Chance to score goal next match": "30%",
+        "Chance to conceded goal next match": "80%",
+        "Number of clean sheet matches": "2",
+        "Failure to score matches": "7",
+        "Matches over 2.5 goals in": "5",
+        "Matches under 2.5 goals in": "5",
+        "Time without scored goal": "174 min.",
+        "Time without conceded goal": "71 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Almere City FC": " 10%",
+            "draw": " 20%",
+            "opponent": " 70%"
+        },
+        "Halftime 1 X 2": {
+            "Almere City FC": " 10%",
+            "draw": " 30%",
+            "opponent": " 60%"
+        },
+        "Second half 1 X 2": {
+            "Almere City FC": " 0%",
+            "draw": " 50%",
+            "opponent": " 50%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 1.5 goals for Almere City FC only": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 2.5 goals for Almere City FC only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 goals for Almere City FC only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 40%",
+            "2-3": " 50%",
+            "4+": " 10%"
+        },
+        "Team to score": {
+            "both": " 20%",
+            "only one": " 70%",
+            "neither": " 10%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 70%",
+            "even": " 30%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 24%",
+            "16-30 min.": " 14%",
+            "31-45 min.": " 29%",
+            "46-60 min.": " 19%",
+            "61-75 min.": " 5%",
+            "76-90 min.": " 10%"
+        },
+        "Almere City FC goals only": {
+            "0-15 min.": " 25%",
+            "16-30 min.": " 25%",
+            "31-45 min.": " 25%",
+            "46-60 min.": " 0%",
+            "61-75 min.": " 25%",
+            "76-90 min.": " 0%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 30%",
+            "11-20 min.": " 40%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 10%"
+        },
+        "Time of first Almere City FC goal": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 0%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 70%"
+        },
+        "First goal in matches": {
+            "Almere City FC": " 20%",
+            "opponent": " 70%",
+            "without goal": " 10%"
+        },
+        "Winner after 15 minutes": {
+            "Almere City FC": " 10%",
+            "opponent": " 40%",
+            "draw": " 50%"
+        },
+        "Winner after 30 minutes": {
+            "Almere City FC": " 20%",
+            "opponent": " 60%",
+            "draw": " 20%"
+        },
+        "Winner after 45 minutes": {
+            "Almere City FC": " 10%",
+            "opponent": " 60%",
+            "draw": " 30%"
+        },
+        "Winner after 60 minutes": {
+            "Almere City FC": " 10%",
+            "opponent": " 60%",
+            "draw": " 30%"
+        },
+        "Winner after 75 minutes": {
+            "Almere City FC": " 20%",
+            "opponent": " 60%",
+            "draw": " 20%"
+        },
+        "Winner after 90 minutes": {
+            "Almere City FC": " 10%",
+            "opponent": " 70%",
+            "draw": " 20%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 60%",
+            "2-3 goals": " 40%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 70%",
+            "second half": " 10%",
+            "tie": " 20%"
+        }
+    }
+}

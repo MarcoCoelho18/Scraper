@@ -1,0 +1,401 @@
+{
+    "Championship": [
+        {
+            "id": 502139,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Watford FC",
+            "home_team_short": "Watford",
+            "away_team_long": "Plymouth Argyle FC",
+            "away_team_short": "Plymouth Arg",
+            "date": "2025-03-29T12:30:00Z"
+        },
+        {
+            "id": 502140,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Hull City AFC",
+            "home_team_short": "Hull City",
+            "away_team_long": "Luton Town FC",
+            "away_team_short": "Luton Town",
+            "date": "2025-03-29T12:30:00Z"
+        },
+        {
+            "id": 502134,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Sunderland AFC",
+            "home_team_short": "Sunderland",
+            "away_team_long": "Millwall FC",
+            "away_team_short": "Millwall",
+            "date": "2025-03-29T15:00:00Z"
+        },
+        {
+            "id": 502141,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Leeds United FC",
+            "home_team_short": "Leeds United",
+            "away_team_long": "Swansea City AFC",
+            "away_team_short": "Swansea",
+            "date": "2025-03-29T15:00:00Z"
+        },
+        {
+            "id": 502137,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Burnley FC",
+            "home_team_short": "Burnley",
+            "away_team_long": "Bristol City FC",
+            "away_team_short": "Bristol City",
+            "date": "2025-03-29T15:00:00Z"
+        },
+        {
+            "id": 502143,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Portsmouth FC",
+            "home_team_short": "Portsmouth",
+            "away_team_long": "Blackburn Rovers FC",
+            "away_team_short": "Blackburn",
+            "date": "2025-03-29T15:00:00Z"
+        },
+        {
+            "id": 502138,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Middlesbrough FC",
+            "home_team_short": "Middlesbrough",
+            "away_team_long": "Oxford United FC",
+            "away_team_short": "Oxford United",
+            "date": "2025-03-29T15:00:00Z"
+        },
+        {
+            "id": 502135,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Cardiff City FC",
+            "home_team_short": "Cardiff",
+            "away_team_long": "Sheffield Wednesday FC",
+            "away_team_short": "Sheffield Wed",
+            "date": "2025-03-29T15:00:00Z"
+        },
+        {
+            "id": 502145,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Stoke City FC",
+            "home_team_short": "Stoke",
+            "away_team_long": "QPR",
+            "away_team_short": "QPR",
+            "date": "2025-03-29T15:00:00Z"
+        },
+        {
+            "id": 502142,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Norwich City FC",
+            "home_team_short": "Norwich",
+            "away_team_long": "West Bromwich Albion FC",
+            "away_team_short": "West Brom",
+            "date": "2025-03-29T15:00:00Z"
+        }
+    ],
+    "Primera Division": [
+        {
+            "id": 498901,
+            "league_name": "Primera Division",
+            "league_code": "PD",
+            "country": "Spain",
+            "home_team_long": "Real Sociedad de Futbol",
+            "home_team_short": "Real Sociedad",
+            "away_team_long": "Real Valladolid CF",
+            "away_team_short": "Valladolid",
+            "date": "2025-03-29T13:00:00Z"
+        },
+        {
+            "id": 498902,
+            "league_name": "Primera Division",
+            "league_code": "PD",
+            "country": "Spain",
+            "home_team_long": "RCD Espanyol de Barcelona",
+            "home_team_short": "Espanyol",
+            "away_team_long": "Club Atletico de Madrid",
+            "away_team_short": "Atleti",
+            "date": "2025-03-29T15:15:00Z"
+        },
+        {
+            "id": 498896,
+            "league_name": "Primera Division",
+            "league_code": "PD",
+            "country": "Spain",
+            "home_team_long": "Deportivo Alaves",
+            "home_team_short": "Alaves",
+            "away_team_long": "Rayo Vallecano de Madrid",
+            "away_team_short": "Rayo Vallecano",
+            "date": "2025-03-29T17:30:00Z"
+        },
+        {
+            "id": 498900,
+            "league_name": "Primera Division",
+            "league_code": "PD",
+            "country": "Spain",
+            "home_team_long": "Real Madrid CF",
+            "home_team_short": "Real Madrid",
+            "away_team_long": "CD Leganes",
+            "away_team_short": "Leganes",
+            "date": "2025-03-29T20:00:00Z"
+        }
+    ],
+    "Serie A": [
+        {
+            "id": 503342,
+            "league_name": "Serie A",
+            "league_code": "SA",
+            "country": "Italy",
+            "home_team_long": "Unione Venezia",
+            "home_team_short": "Unione Venezia",
+            "away_team_long": "Bologna FC 1909",
+            "away_team_short": "Bologna",
+            "date": "2025-03-29T14:00:00Z"
+        },
+        {
+            "id": 503334,
+            "league_name": "Serie A",
+            "league_code": "SA",
+            "country": "Italy",
+            "home_team_long": "Como 1907",
+            "home_team_short": "Como 1907",
+            "away_team_long": "Empoli FC",
+            "away_team_short": "Empoli",
+            "date": "2025-03-29T14:00:00Z"
+        },
+        {
+            "id": 503338,
+            "league_name": "Serie A",
+            "league_code": "SA",
+            "country": "Italy",
+            "home_team_long": "Juventus FC",
+            "home_team_short": "Juventus",
+            "away_team_long": "Genoa CFC",
+            "away_team_short": "Genoa",
+            "date": "2025-03-29T17:00:00Z"
+        },
+        {
+            "id": 503340,
+            "league_name": "Serie A",
+            "league_code": "SA",
+            "country": "Italy",
+            "home_team_long": "US Lecce",
+            "home_team_short": "Lecce",
+            "away_team_long": "AS Roma",
+            "away_team_short": "Roma",
+            "date": "2025-03-29T19:45:00Z"
+        }
+    ],
+    "Bundesliga": [
+        {
+            "id": 502606,
+            "league_name": "Bundesliga",
+            "league_code": "BL1",
+            "country": "Germany",
+            "home_team_long": "Borussia Monchengladbach",
+            "home_team_short": "M'gladbach",
+            "away_team_long": "RB Leipzig",
+            "away_team_short": "RB Leipzig",
+            "date": "2025-03-29T14:30:00Z"
+        },
+        {
+            "id": 502608,
+            "league_name": "Bundesliga",
+            "league_code": "BL1",
+            "country": "Germany",
+            "home_team_long": "Holstein Kiel",
+            "home_team_short": "Holstein Kiel",
+            "away_team_long": "SV Werder Bremen",
+            "away_team_short": "Bremen",
+            "date": "2025-03-29T14:30:00Z"
+        },
+        {
+            "id": 502613,
+            "league_name": "Bundesliga",
+            "league_code": "BL1",
+            "country": "Germany",
+            "home_team_long": "FC Bayern Munchen",
+            "home_team_short": "Bayern",
+            "away_team_long": "FC St. Pauli 1910",
+            "away_team_short": "St. Pauli",
+            "date": "2025-03-29T14:30:00Z"
+        },
+        {
+            "id": 502607,
+            "league_name": "Bundesliga",
+            "league_code": "BL1",
+            "country": "Germany",
+            "home_team_long": "VfL Wolfsburg",
+            "home_team_short": "Wolfsburg",
+            "away_team_long": "1. FC Heidenheim 1846",
+            "away_team_short": "Heidenheim",
+            "date": "2025-03-29T14:30:00Z"
+        },
+        {
+            "id": 502609,
+            "league_name": "Bundesliga",
+            "league_code": "BL1",
+            "country": "Germany",
+            "home_team_long": "TSG 1899 Hoffenheim",
+            "home_team_short": "Hoffenheim",
+            "away_team_long": "FC Augsburg",
+            "away_team_short": "Augsburg",
+            "date": "2025-03-29T14:30:00Z"
+        },
+        {
+            "id": 502605,
+            "league_name": "Bundesliga",
+            "league_code": "BL1",
+            "country": "Germany",
+            "home_team_long": "Eintracht Frankfurt",
+            "home_team_short": "Frankfurt",
+            "away_team_long": "VfB Stuttgart",
+            "away_team_short": "Stuttgart",
+            "date": "2025-03-29T17:30:00Z"
+        }
+    ],
+    "Eredivisie": [
+        {
+            "id": 499231,
+            "league_name": "Eredivisie",
+            "league_code": "DED",
+            "country": "Netherlands",
+            "home_team_long": "NAC Breda",
+            "home_team_short": "NAC",
+            "away_team_long": "FC Groningen",
+            "away_team_short": "Groningen",
+            "date": "2025-03-29T15:30:00Z"
+        },
+        {
+            "id": 499235,
+            "league_name": "Eredivisie",
+            "league_code": "DED",
+            "country": "Netherlands",
+            "home_team_long": "Willem II Tilburg",
+            "home_team_short": "Willem II",
+            "away_team_long": "Almere City FC",
+            "away_team_short": "Almere City",
+            "date": "2025-03-29T17:45:00Z"
+        },
+        {
+            "id": 499229,
+            "league_name": "Eredivisie",
+            "league_code": "DED",
+            "country": "Netherlands",
+            "home_team_long": "Fortuna Sittard",
+            "home_team_short": "Sittard",
+            "away_team_long": "Sparta Rotterdam",
+            "away_team_short": "Sparta",
+            "date": "2025-03-29T17:45:00Z"
+        },
+        {
+            "id": 499233,
+            "league_name": "Eredivisie",
+            "league_code": "DED",
+            "country": "Netherlands",
+            "home_team_long": "PEC Zwolle",
+            "home_team_short": "Zwolle",
+            "away_team_long": "RKC Waalwijk",
+            "away_team_short": "RKC",
+            "date": "2025-03-29T20:00:00Z"
+        },
+        {
+            "id": 499232,
+            "league_name": "Eredivisie",
+            "league_code": "DED",
+            "country": "Netherlands",
+            "home_team_long": "NEC",
+            "home_team_short": "NEC",
+            "away_team_long": "AZ",
+            "away_team_short": "AZ",
+            "date": "2025-03-29T20:00:00Z"
+        }
+    ],
+    "Primeira Liga": [
+        {
+            "id": 503788,
+            "league_name": "Primeira Liga",
+            "league_code": "PPL",
+            "country": "Portugal",
+            "home_team_long": "Casa Pia AC",
+            "home_team_short": "Casa Pia",
+            "away_team_long": "Rio Ave FC",
+            "away_team_short": "Rio Ave",
+            "date": "2025-03-29T15:30:00Z"
+        },
+        {
+            "id": 503790,
+            "league_name": "Primeira Liga",
+            "league_code": "PPL",
+            "country": "Portugal",
+            "home_team_long": "CF Estrela da Amadora",
+            "home_team_short": "Amadora",
+            "away_team_long": "Sporting Clube de Portugal",
+            "away_team_short": "Sporting CP",
+            "date": "2025-03-29T18:00:00Z"
+        },
+        {
+            "id": 503786,
+            "league_name": "Primeira Liga",
+            "league_code": "PPL",
+            "country": "Portugal",
+            "home_team_long": "Sporting Clube de Braga",
+            "home_team_short": "Braga",
+            "away_team_long": "FC Arouca",
+            "away_team_short": "Arouca",
+            "date": "2025-03-29T20:30:00Z"
+        }
+    ],
+    "Ligue 1": [
+        {
+            "id": 498191,
+            "league_name": "Ligue 1",
+            "league_code": "FL1",
+            "country": "France",
+            "home_team_long": "Stade de Reims",
+            "home_team_short": "Stade de Reims",
+            "away_team_long": "Olympique de Marseille",
+            "away_team_short": "Marseille",
+            "date": "2025-03-29T16:00:00Z"
+        },
+        {
+            "id": 498190,
+            "league_name": "Ligue 1",
+            "league_code": "FL1",
+            "country": "France",
+            "home_team_long": "AS Saint-Etienne",
+            "home_team_short": "Saint-Etienne",
+            "away_team_long": "Paris Saint-Germain FC",
+            "away_team_short": "PSG",
+            "date": "2025-03-29T18:00:00Z"
+        },
+        {
+            "id": 498193,
+            "league_name": "Ligue 1",
+            "league_code": "FL1",
+            "country": "France",
+            "home_team_long": "AS Monaco FC",
+            "home_team_short": "Monaco",
+            "away_team_long": "OGC Nice",
+            "away_team_short": "Nice",
+            "date": "2025-03-29T20:05:00Z"
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Casa Pia wins": "5",
+        "Number of Casa Pia draws": "3",
+        "Number of Casa Pia loses": "2",
+        "Average scored goals per match": "1.6",
+        "Average conceded goals per match": "1.1",
+        "Chance to score goal next match": "100%",
+        "Chance to conceded goal next match": "70%",
+        "Number of clean sheet matches": "3",
+        "Failure to score matches": "0",
+        "Matches over 2.5 goals in": "5",
+        "Matches under 2.5 goals in": "5",
+        "Time without scored goal": "130 min.",
+        "Time without conceded goal": "13 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Casa Pia": " 50%",
+            "draw": " 30%",
+            "opponent": " 20%"
+        },
+        "Halftime 1 X 2": {
+            "Casa Pia": " 40%",
+            "draw": " 40%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "Casa Pia": " 30%",
+            "draw": " 40%",
+            "opponent": " 30%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 80%",
+            "under": " 20%"
+        },
+        "Over/under 1.5 goals for Casa Pia only": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 2.5 goals for Casa Pia only": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 3.5 goals for Casa Pia only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 20%",
+            "2-3": " 40%",
+            "4+": " 40%"
+        },
+        "Team to score": {
+            "both": " 70%",
+            "only one": " 30%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 30%",
+            "even": " 70%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 26%",
+            "16-30 min.": " 11%",
+            "31-45 min.": " 30%",
+            "46-60 min.": " 11%",
+            "61-75 min.": " 7%",
+            "76-90 min.": " 15%"
+        },
+        "Casa Pia goals only": {
+            "0-15 min.": " 13%",
+            "16-30 min.": " 19%",
+            "31-45 min.": " 38%",
+            "46-60 min.": " 19%",
+            "61-75 min.": " 0%",
+            "76-90 min.": " 13%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 30%",
+            "11-20 min.": " 50%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first Casa Pia goal": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 30%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 30%",
+            "41-50 min.": " 30%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "First goal in matches": {
+            "Casa Pia": " 60%",
+            "opponent": " 40%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Casa Pia": " 20%",
+            "opponent": " 40%",
+            "draw": " 40%"
+        },
+        "Winner after 30 minutes": {
+            "Casa Pia": " 40%",
+            "opponent": " 40%",
+            "draw": " 20%"
+        },
+        "Winner after 45 minutes": {
+            "Casa Pia": " 40%",
+            "opponent": " 20%",
+            "draw": " 40%"
+        },
+        "Winner after 60 minutes": {
+            "Casa Pia": " 60%",
+            "opponent": " 20%",
+            "draw": " 20%"
+        },
+        "Winner after 75 minutes": {
+            "Casa Pia": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Winner after 90 minutes": {
+            "Casa Pia": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 50%",
+            "2-3 goals": " 50%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 50%",
+            "second half": " 20%",
+            "tie": " 30%"
+        }
+    }
+}

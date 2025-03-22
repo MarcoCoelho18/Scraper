@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of VfB Stuttgart wins": "5",
+        "Number of VfB Stuttgart draws": "3",
+        "Number of VfB Stuttgart loses": "2",
+        "Average scored goals per match": "1.8",
+        "Average conceded goals per match": "1.5",
+        "Chance to score goal next match": "90%",
+        "Chance to conceded goal next match": "80%",
+        "Number of clean sheet matches": "2",
+        "Failure to score matches": "1",
+        "Matches over 2.5 goals in": "7",
+        "Matches under 2.5 goals in": "3",
+        "Time without scored goal": "35 min.",
+        "Time without conceded goal": "44 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "VfB Stuttgart": " 50%",
+            "draw": " 30%",
+            "opponent": " 20%"
+        },
+        "Halftime 1 X 2": {
+            "VfB Stuttgart": " 40%",
+            "draw": " 40%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "VfB Stuttgart": " 40%",
+            "draw": " 30%",
+            "opponent": " 30%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 90%",
+            "under": " 10%"
+        },
+        "Over/under 1.5 goals for VfB Stuttgart only": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 70%",
+            "under": " 30%"
+        },
+        "Over/under 2.5 goals for VfB Stuttgart only": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 3.5 goals for VfB Stuttgart only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 10%",
+            "2-3": " 40%",
+            "4+": " 50%"
+        },
+        "Team to score": {
+            "both": " 70%",
+            "only one": " 30%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 30%",
+            "even": " 70%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 21%",
+            "16-30 min.": " 15%",
+            "31-45 min.": " 12%",
+            "46-60 min.": " 9%",
+            "61-75 min.": " 18%",
+            "76-90 min.": " 24%"
+        },
+        "VfB Stuttgart goals only": {
+            "0-15 min.": " 28%",
+            "16-30 min.": " 17%",
+            "31-45 min.": " 11%",
+            "46-60 min.": " 11%",
+            "61-75 min.": " 17%",
+            "76-90 min.": " 17%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 40%",
+            "11-20 min.": " 30%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first VfB Stuttgart goal": {
+            "0-10 min.": " 30%",
+            "11-20 min.": " 40%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 10%"
+        },
+        "First goal in matches": {
+            "VfB Stuttgart": " 80%",
+            "opponent": " 20%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "VfB Stuttgart": " 40%",
+            "opponent": " 10%",
+            "draw": " 50%"
+        },
+        "Winner after 30 minutes": {
+            "VfB Stuttgart": " 40%",
+            "opponent": " 10%",
+            "draw": " 50%"
+        },
+        "Winner after 45 minutes": {
+            "VfB Stuttgart": " 40%",
+            "opponent": " 20%",
+            "draw": " 40%"
+        },
+        "Winner after 60 minutes": {
+            "VfB Stuttgart": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Winner after 75 minutes": {
+            "VfB Stuttgart": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Winner after 90 minutes": {
+            "VfB Stuttgart": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 50%",
+            "2-3 goals": " 40%",
+            "4+ goals": " 10%"
+        },
+        "Half with most goals": {
+            "first half": " 20%",
+            "second half": " 50%",
+            "tie": " 30%"
+        }
+    }
+}

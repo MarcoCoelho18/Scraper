@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of West Brom wins": "0",
+        "Number of West Brom draws": "5",
+        "Number of West Brom loses": "5",
+        "Average scored goals per match": "0.9",
+        "Average conceded goals per match": "1.8",
+        "Chance to score goal next match": "90%",
+        "Chance to conceded goal next match": "100%",
+        "Number of clean sheet matches": "0",
+        "Failure to score matches": "1",
+        "Matches over 2.5 goals in": "4",
+        "Matches under 2.5 goals in": "6",
+        "Time without scored goal": "70 min.",
+        "Time without conceded goal": "67 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "West Brom": " 0%",
+            "draw": " 50%",
+            "opponent": " 50%"
+        },
+        "Halftime 1 X 2": {
+            "West Brom": " 0%",
+            "draw": " 60%",
+            "opponent": " 40%"
+        },
+        "Second half 1 X 2": {
+            "West Brom": " 0%",
+            "draw": " 70%",
+            "opponent": " 30%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 100%",
+            "under": " 0%"
+        },
+        "Over/under 1.5 goals for West Brom only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 2.5 goals for West Brom only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 goals for West Brom only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 0%",
+            "2-3": " 90%",
+            "4+": " 10%"
+        },
+        "Team to score": {
+            "both": " 90%",
+            "only one": " 10%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 30%",
+            "even": " 70%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 7%",
+            "16-30 min.": " 30%",
+            "31-45 min.": " 19%",
+            "46-60 min.": " 7%",
+            "61-75 min.": " 15%",
+            "76-90 min.": " 22%"
+        },
+        "West Brom goals only": {
+            "0-15 min.": " 11%",
+            "16-30 min.": " 22%",
+            "31-45 min.": " 22%",
+            "46-60 min.": " 0%",
+            "61-75 min.": " 33%",
+            "76-90 min.": " 11%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 30%",
+            "21-30 min.": " 30%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 10%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first West Brom goal": {
+            "0-10 min.": " 0%",
+            "11-20 min.": " 20%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 20%",
+            "71-80 min.": " 10%",
+            "81-90 min.": " 10%",
+            "without goal": " 10%"
+        },
+        "First goal in matches": {
+            "West Brom": " 40%",
+            "opponent": " 60%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "West Brom": " 10%",
+            "opponent": " 10%",
+            "draw": " 80%"
+        },
+        "Winner after 30 minutes": {
+            "West Brom": " 0%",
+            "opponent": " 40%",
+            "draw": " 60%"
+        },
+        "Winner after 45 minutes": {
+            "West Brom": " 0%",
+            "opponent": " 40%",
+            "draw": " 60%"
+        },
+        "Winner after 60 minutes": {
+            "West Brom": " 0%",
+            "opponent": " 40%",
+            "draw": " 60%"
+        },
+        "Winner after 75 minutes": {
+            "West Brom": " 20%",
+            "opponent": " 40%",
+            "draw": " 40%"
+        },
+        "Winner after 90 minutes": {
+            "West Brom": " 0%",
+            "opponent": " 50%",
+            "draw": " 50%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 80%",
+            "2-3 goals": " 10%",
+            "4+ goals": " 10%"
+        },
+        "Half with most goals": {
+            "first half": " 50%",
+            "second half": " 0%",
+            "tie": " 50%"
+        }
+    }
+}

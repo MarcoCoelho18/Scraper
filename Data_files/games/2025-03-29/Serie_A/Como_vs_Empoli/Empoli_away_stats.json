@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Empoli wins": "1",
+        "Number of Empoli draws": "4",
+        "Number of Empoli loses": "5",
+        "Average scored goals per match": "1.3",
+        "Average conceded goals per match": "2",
+        "Chance to score goal next match": "80%",
+        "Chance to conceded goal next match": "100%",
+        "Number of clean sheet matches": "0",
+        "Failure to score matches": "2",
+        "Matches over 2.5 goals in": "6",
+        "Matches under 2.5 goals in": "4",
+        "Time without scored goal": "144 min.",
+        "Time without conceded goal": "20 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Empoli": " 10%",
+            "draw": " 40%",
+            "opponent": " 50%"
+        },
+        "Halftime 1 X 2": {
+            "Empoli": " 50%",
+            "draw": " 30%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "Empoli": " 0%",
+            "draw": " 30%",
+            "opponent": " 70%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 90%",
+            "under": " 10%"
+        },
+        "Over/under 1.5 goals for Empoli only": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 2.5 goals for Empoli only": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 3.5 goals for Empoli only": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Goal bands": {
+            "0-1": " 10%",
+            "2-3": " 40%",
+            "4+": " 50%"
+        },
+        "Team to score": {
+            "both": " 80%",
+            "only one": " 20%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 50%",
+            "even": " 50%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 12%",
+            "16-30 min.": " 12%",
+            "31-45 min.": " 21%",
+            "46-60 min.": " 9%",
+            "61-75 min.": " 21%",
+            "76-90 min.": " 24%"
+        },
+        "Empoli goals only": {
+            "0-15 min.": " 23%",
+            "16-30 min.": " 23%",
+            "31-45 min.": " 31%",
+            "46-60 min.": " 8%",
+            "61-75 min.": " 8%",
+            "76-90 min.": " 8%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 30%",
+            "11-20 min.": " 30%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first Empoli goal": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 20%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 20%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 10%",
+            "without goal": " 20%"
+        },
+        "First goal in matches": {
+            "Empoli": " 60%",
+            "opponent": " 40%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Empoli": " 30%",
+            "opponent": " 10%",
+            "draw": " 60%"
+        },
+        "Winner after 30 minutes": {
+            "Empoli": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Winner after 45 minutes": {
+            "Empoli": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Winner after 60 minutes": {
+            "Empoli": " 40%",
+            "opponent": " 20%",
+            "draw": " 40%"
+        },
+        "Winner after 75 minutes": {
+            "Empoli": " 20%",
+            "opponent": " 40%",
+            "draw": " 40%"
+        },
+        "Winner after 90 minutes": {
+            "Empoli": " 10%",
+            "opponent": " 50%",
+            "draw": " 40%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 60%",
+            "2-3 goals": " 40%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 50%",
+            "second half": " 10%",
+            "tie": " 40%"
+        }
+    }
+}
