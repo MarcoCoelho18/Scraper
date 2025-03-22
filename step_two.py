@@ -1,9 +1,9 @@
 import os
 import time
 import logging
-import json
-import requests
 from bs4 import BeautifulSoup
+import requests
+import json
 from utils.file_utils import save_game_data
 from utils.validation_utils import validate_team_name
 from utils.scraping_utils import construct_url, extract_general_statistics, extract_team_bet_statistics

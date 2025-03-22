@@ -1,7 +1,7 @@
 from step_one import step_one
 from step_two import step_two
-import logging
 from utils.logging_utils import configure_logging
+import logging
 
 def main():
     # Configure logging

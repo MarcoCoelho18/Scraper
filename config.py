@@ -1,7 +1,15 @@
+from dotenv import load_dotenv
 import os
 
-# API and URL configuration
-API_KEY = '87c5140405c3414b8db855f523c611f0'
+# Load environment variables from .env file
+load_dotenv()
+
+# Read the API key from the environment variable
+API_KEY = os.getenv("FOOTBALL_API_KEY")
+if not API_KEY:
+    raise ValueError("Please set the FOOTBALL_API_KEY in the .env file.")
+
+# API base URL
 BASE_URL = 'https://api.football-data.org/v4/'
 
 # Folder paths
