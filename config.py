@@ -27,7 +27,7 @@ valid_teams = [
     "Millwall", "Sheffield Wed", "Norwich", "Preston", "QPR", "Swansea", "Portsmouth", "Oxford United", "Hull City", "Stoke City", 
     "Cardiff", "Derby", "Luton", "Plymouth",
     # LaLiga Teams
-    "Barcelona", "Real Madrid", "Atletico Madrid", "Athletic Club", "Villarreal", "Betis", "Mallorca", "Celta Vigo", "Rayo Vallecano", "Sevilla", 
+    "Barcelona (Spain)", "Real Madrid", "Atletico Madrid", "Athletic Club", "Villarreal", "Betis", "Mallorca", "Celta Vigo", "Rayo Vallecano", "Sevilla", 
     "Getafe", "Real Sociedad", "Girona", "Osasuna", "Espanyol", "Valencia", "Deportivo Alaves", "Leganes", "Las Palmas", "Valladolid", 
     # LaLiga2 Teams
     "Levante", "Racing Santander", "Mirandes", "Elche", "Huesca", "Oviedo", "Almeria", "Granada CF", "Cadiz", "Cordoba", 
@@ -108,5 +108,65 @@ team_abbreviations = {
     "AVS": "Vilafranquense",
     "AVES": "Vilafranquense",
     "SCP": "Sporting CP",
+    "AZ": "AZ Alkmaar",
+    "NEC": "NEC Nijmegen",
+    "Venezia FC": "Unione Venezia",
+    "FC Kaiserlautern": "Kaiserslautern",
     # Add more abbreviations as needed
+}
+# Dictionary of allowed leagues (league code -> league name)
+ALLOWED_LEAGUES = {
+    "BL1": "1. Bundesliga",
+    "BL2": "2. Bundesliga",
+    "BL3": "3. Bundesliga",
+    "DFB": "Dfb-Cup",
+    "PL": "Premier League",
+    "EL1": "League One",
+    "ELC": "Championship",
+    "FAC": "FA-Cup",
+    "SA": "Serie A",
+    "SB": "Serie B",
+    "PD": "Primera Division",
+    "SD": "Segunda Division",
+    "CDR": "Copa del Rey",
+    "FL1": "Ligue 1",
+    "FL2": "Ligue 2",
+    "DED": "Eredivisie",
+    "PPL": "Primeira Liga",
+    "GSL": "Super League",
+    "CL": "Champions-League",
+    "EL": "UEFA-Cup",
+    "EC": "European-Cup of Nations",
+    "WC": "World-Cup"
+}
+# Dictionary of league codes to countries
+LEAGUE_COUNTRIES = {
+    "BL1": "Germany",
+    "BL2": "Germany",
+    "BL3": "Germany",
+    "DFB": "Germany",
+    "PL": "England",
+    "EL1": "England",
+    "ELC": "England",
+    "FAC": "England",
+    "SA": "Italy",
+    "SB": "Italy",
+    "PD": "Spain",
+    "SD": "Spain",
+    "CDR": "Spain",
+    "FL1": "France",
+    "FL2": "France",
+    "DED": "Netherlands",
+    "PPL": "Portugal",
+    "GSL": "Greece",
+    "CL": "Europe",
+    "EL": "Europe",
+    "EC": "Europe",
+    "WC": "World"
+}
+TEAM_NAME_MAPPING = {
+    "Venezia FC": "Unione Venezia",
+    "Queens Park Rangers FC": "QPR",
+    "Sheffield United FC": "Sheffield Utd",
+    # Add more mappings as needed
 }

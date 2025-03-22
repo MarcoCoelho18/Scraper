@@ -10,7 +10,6 @@ def save_to_json(data, filename, folder):
     filepath = os.path.join(folder, filename)
     with open(filepath, 'w') as json_file:
         json.dump(data, json_file, indent=4)
-    logging.info(f"Data saved to {filepath}")
     return filepath
 
 def save_game_data(game_folder, data, filename):
@@ -22,6 +21,5 @@ def save_game_data(game_folder, data, filename):
         filepath = os.path.join(game_folder, filename)
         with open(filepath, 'w', encoding='utf-8') as file:
             json.dump(data, file, indent=4)
-        logging.info(f"Data saved to {filepath}.")
     except Exception as e:
         logging.error(f"Failed to save JSON file: {e}")
