@@ -1,0 +1,327 @@
+{
+    "match_info": {
+        "id": 502613,
+        "league_name": "Bundesliga",
+        "league_code": "BL1",
+        "country": "Germany",
+        "home_team_long": "Bayern Munich",
+        "home_team_short": "Bayern",
+        "away_team_long": "FC St. Pauli 1910",
+        "away_team_short": "St. Pauli",
+        "date": "2025-03-29T14:30:00Z"
+    },
+    "home_stats": {
+        "general_statistics": {
+            "Number of Bayern Munich wins": "8",
+            "Number of Bayern Munich draws": "1",
+            "Number of Bayern Munich loses": "1",
+            "Average scored goals per match": "3.3",
+            "Average conceded goals per match": "1.1",
+            "Chance to score goal next match": "100%",
+            "Chance to conceded goal next match": "60%",
+            "Number of clean sheet matches": "4",
+            "Failure to score matches": "0",
+            "Matches over 2.5 goals in": "9",
+            "Matches under 2.5 goals in": "1",
+            "Time without scored goal": "62 min.",
+            "Time without conceded goal": "19 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "Bayern Munich": " 80%",
+                "draw": " 10%",
+                "opponent": " 10%"
+            },
+            "Halftime 1 X 2": {
+                "Bayern Munich": " 80%",
+                "draw": " 20%",
+                "opponent": " 0%"
+            },
+            "Second half 1 X 2": {
+                "Bayern Munich": " 60%",
+                "draw": " 20%",
+                "opponent": " 20%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 100%",
+                "under": " 0%"
+            },
+            "Over/under 1.5 goals for Bayern Munich only": {
+                "over": " 90%",
+                "under": " 10%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 90%",
+                "under": " 10%"
+            },
+            "Over/under 2.5 goals for Bayern Munich only": {
+                "over": " 80%",
+                "under": " 20%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 70%",
+                "under": " 30%"
+            },
+            "Over/under 3.5 goals for Bayern Munich only": {
+                "over": " 40%",
+                "under": " 60%"
+            },
+            "Goal bands": {
+                "0-1": " 0%",
+                "2-3": " 30%",
+                "4+": " 70%"
+            },
+            "Team to score": {
+                "both": " 60%",
+                "only one": " 40%",
+                "neither": " 0%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 60%",
+                "even": " 40%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 16%",
+                "16-30 min.": " 14%",
+                "31-45 min.": " 11%",
+                "46-60 min.": " 14%",
+                "61-75 min.": " 20%",
+                "76-90 min.": " 25%"
+            },
+            "Bayern Munich goals only": {
+                "0-15 min.": " 18%",
+                "16-30 min.": " 15%",
+                "31-45 min.": " 12%",
+                "46-60 min.": " 15%",
+                "61-75 min.": " 18%",
+                "76-90 min.": " 21%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 40%",
+                "11-20 min.": " 30%",
+                "21-30 min.": " 0%",
+                "31-40 min.": " 0%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 10%",
+                "61-70 min.": " 10%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 0%",
+                "without goal": " 0%"
+            },
+            "Time of first Bayern Munich goal": {
+                "0-10 min.": " 40%",
+                "11-20 min.": " 30%",
+                "21-30 min.": " 0%",
+                "31-40 min.": " 0%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 10%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 10%",
+                "without goal": " 0%"
+            },
+            "First goal in matches": {
+                "Bayern Munich": " 90%",
+                "opponent": " 10%",
+                "without goal": " 0%"
+            },
+            "Winner after 15 minutes": {
+                "Bayern Munich": " 40%",
+                "opponent": " 0%",
+                "draw": " 60%"
+            },
+            "Winner after 30 minutes": {
+                "Bayern Munich": " 60%",
+                "opponent": " 0%",
+                "draw": " 40%"
+            },
+            "Winner after 45 minutes": {
+                "Bayern Munich": " 80%",
+                "opponent": " 0%",
+                "draw": " 20%"
+            },
+            "Winner after 60 minutes": {
+                "Bayern Munich": " 80%",
+                "opponent": " 0%",
+                "draw": " 20%"
+            },
+            "Winner after 75 minutes": {
+                "Bayern Munich": " 80%",
+                "opponent": " 20%",
+                "draw": " 0%"
+            },
+            "Winner after 90 minutes": {
+                "Bayern Munich": " 80%",
+                "opponent": " 10%",
+                "draw": " 10%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 40%",
+                "2-3 goals": " 30%",
+                "4+ goals": " 30%"
+            },
+            "Half with most goals": {
+                "first half": " 80%",
+                "second half": " 10%",
+                "tie": " 10%"
+            }
+        }
+    },
+    "away_stats": {
+        "general_statistics": {
+            "Number of FC St. Pauli wins": "2",
+            "Number of FC St. Pauli draws": "2",
+            "Number of FC St. Pauli loses": "6",
+            "Average scored goals per match": "0.7",
+            "Average conceded goals per match": "1.3",
+            "Chance to score goal next match": "60%",
+            "Chance to conceded goal next match": "80%",
+            "Number of clean sheet matches": "2",
+            "Failure to score matches": "4",
+            "Matches over 2.5 goals in": "2",
+            "Matches under 2.5 goals in": "8",
+            "Time without scored goal": "52 min.",
+            "Time without conceded goal": "20 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "FC St. Pauli": " 20%",
+                "draw": " 20%",
+                "opponent": " 60%"
+            },
+            "Halftime 1 X 2": {
+                "FC St. Pauli": " 30%",
+                "draw": " 40%",
+                "opponent": " 30%"
+            },
+            "Second half 1 X 2": {
+                "FC St. Pauli": " 20%",
+                "draw": " 40%",
+                "opponent": " 40%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 80%",
+                "under": " 20%"
+            },
+            "Over/under 1.5 goals for FC St. Pauli only": {
+                "over": " 10%",
+                "under": " 90%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Over/under 2.5 goals for FC St. Pauli only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Over/under 3.5 goals for FC St. Pauli only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Goal bands": {
+                "0-1": " 20%",
+                "2-3": " 80%",
+                "4+": " 0%"
+            },
+            "Team to score": {
+                "both": " 40%",
+                "only one": " 60%",
+                "neither": " 0%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 40%",
+                "even": " 60%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 10%",
+                "16-30 min.": " 25%",
+                "31-45 min.": " 20%",
+                "46-60 min.": " 0%",
+                "61-75 min.": " 20%",
+                "76-90 min.": " 25%"
+            },
+            "FC St. Pauli goals only": {
+                "0-15 min.": " 0%",
+                "16-30 min.": " 29%",
+                "31-45 min.": " 29%",
+                "46-60 min.": " 0%",
+                "61-75 min.": " 0%",
+                "76-90 min.": " 43%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 10%",
+                "11-20 min.": " 20%",
+                "21-30 min.": " 30%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 0%",
+                "51-60 min.": " 0%",
+                "61-70 min.": " 20%",
+                "71-80 min.": " 10%",
+                "81-90 min.": " 0%",
+                "without goal": " 0%"
+            },
+            "Time of first FC St. Pauli goal": {
+                "0-10 min.": " 0%",
+                "11-20 min.": " 0%",
+                "21-30 min.": " 20%",
+                "31-40 min.": " 20%",
+                "41-50 min.": " 0%",
+                "51-60 min.": " 0%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 10%",
+                "81-90 min.": " 10%",
+                "without goal": " 40%"
+            },
+            "First goal in matches": {
+                "FC St. Pauli": " 30%",
+                "opponent": " 70%",
+                "without goal": " 0%"
+            },
+            "Winner after 15 minutes": {
+                "FC St. Pauli": " 0%",
+                "opponent": " 20%",
+                "draw": " 80%"
+            },
+            "Winner after 30 minutes": {
+                "FC St. Pauli": " 20%",
+                "opponent": " 40%",
+                "draw": " 40%"
+            },
+            "Winner after 45 minutes": {
+                "FC St. Pauli": " 30%",
+                "opponent": " 30%",
+                "draw": " 40%"
+            },
+            "Winner after 60 minutes": {
+                "FC St. Pauli": " 30%",
+                "opponent": " 30%",
+                "draw": " 40%"
+            },
+            "Winner after 75 minutes": {
+                "FC St. Pauli": " 20%",
+                "opponent": " 60%",
+                "draw": " 20%"
+            },
+            "Winner after 90 minutes": {
+                "FC St. Pauli": " 20%",
+                "opponent": " 60%",
+                "draw": " 20%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 60%",
+                "2-3 goals": " 40%",
+                "4+ goals": " 0%"
+            },
+            "Half with most goals": {
+                "first half": " 60%",
+                "second half": " 20%",
+                "tie": " 20%"
+            }
+        }
+    }
+}

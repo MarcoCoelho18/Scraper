@@ -1,0 +1,327 @@
+{
+    "match_info": {
+        "id": 502139,
+        "league_name": "Championship",
+        "league_code": "ELC",
+        "country": "England",
+        "home_team_long": "Watford FC",
+        "home_team_short": "Watford",
+        "away_team_long": "Plymouth Argyle FC",
+        "away_team_short": "Plymouth Arg",
+        "date": "2025-03-29T12:30:00Z"
+    },
+    "home_stats": {
+        "general_statistics": {
+            "Number of Watford wins": "4",
+            "Number of Watford draws": "0",
+            "Number of Watford loses": "6",
+            "Average scored goals per match": "1.1",
+            "Average conceded goals per match": "1.5",
+            "Chance to score goal next match": "80%",
+            "Chance to conceded goal next match": "80%",
+            "Number of clean sheet matches": "2",
+            "Failure to score matches": "2",
+            "Matches over 2.5 goals in": "7",
+            "Matches under 2.5 goals in": "3",
+            "Time without scored goal": "63 min.",
+            "Time without conceded goal": "99 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "Watford": " 40%",
+                "draw": " 0%",
+                "opponent": " 60%"
+            },
+            "Halftime 1 X 2": {
+                "Watford": " 40%",
+                "draw": " 10%",
+                "opponent": " 50%"
+            },
+            "Second half 1 X 2": {
+                "Watford": " 10%",
+                "draw": " 60%",
+                "opponent": " 30%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 80%",
+                "under": " 20%"
+            },
+            "Over/under 1.5 goals for Watford only": {
+                "over": " 30%",
+                "under": " 70%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 70%",
+                "under": " 30%"
+            },
+            "Over/under 2.5 goals for Watford only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 10%",
+                "under": " 90%"
+            },
+            "Over/under 3.5 goals for Watford only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Goal bands": {
+                "0-1": " 20%",
+                "2-3": " 70%",
+                "4+": " 10%"
+            },
+            "Team to score": {
+                "both": " 60%",
+                "only one": " 40%",
+                "neither": " 0%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 80%",
+                "even": " 20%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 15%",
+                "16-30 min.": " 27%",
+                "31-45 min.": " 19%",
+                "46-60 min.": " 19%",
+                "61-75 min.": " 8%",
+                "76-90 min.": " 12%"
+            },
+            "Watford goals only": {
+                "0-15 min.": " 9%",
+                "16-30 min.": " 36%",
+                "31-45 min.": " 18%",
+                "46-60 min.": " 18%",
+                "61-75 min.": " 0%",
+                "76-90 min.": " 18%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 10%",
+                "11-20 min.": " 50%",
+                "21-30 min.": " 20%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 0%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 0%",
+                "without goal": " 0%"
+            },
+            "Time of first Watford goal": {
+                "0-10 min.": " 0%",
+                "11-20 min.": " 20%",
+                "21-30 min.": " 20%",
+                "31-40 min.": " 20%",
+                "41-50 min.": " 0%",
+                "51-60 min.": " 10%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 10%",
+                "without goal": " 20%"
+            },
+            "First goal in matches": {
+                "Watford": " 40%",
+                "opponent": " 60%",
+                "without goal": " 0%"
+            },
+            "Winner after 15 minutes": {
+                "Watford": " 10%",
+                "opponent": " 30%",
+                "draw": " 60%"
+            },
+            "Winner after 30 minutes": {
+                "Watford": " 30%",
+                "opponent": " 40%",
+                "draw": " 30%"
+            },
+            "Winner after 45 minutes": {
+                "Watford": " 40%",
+                "opponent": " 50%",
+                "draw": " 10%"
+            },
+            "Winner after 60 minutes": {
+                "Watford": " 30%",
+                "opponent": " 50%",
+                "draw": " 20%"
+            },
+            "Winner after 75 minutes": {
+                "Watford": " 30%",
+                "opponent": " 50%",
+                "draw": " 20%"
+            },
+            "Winner after 90 minutes": {
+                "Watford": " 40%",
+                "opponent": " 60%",
+                "draw": " 0%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 80%",
+                "2-3 goals": " 10%",
+                "4+ goals": " 10%"
+            },
+            "Half with most goals": {
+                "first half": " 40%",
+                "second half": " 60%",
+                "tie": " 0%"
+            }
+        }
+    },
+    "away_stats": {
+        "general_statistics": {
+            "Number of Plymouth wins": "2",
+            "Number of Plymouth draws": "3",
+            "Number of Plymouth loses": "5",
+            "Average scored goals per match": "0.7",
+            "Average conceded goals per match": "1.7",
+            "Chance to score goal next match": "50%",
+            "Chance to conceded goal next match": "80%",
+            "Number of clean sheet matches": "2",
+            "Failure to score matches": "5",
+            "Matches over 2.5 goals in": "4",
+            "Matches under 2.5 goals in": "6",
+            "Time without scored goal": "41 min.",
+            "Time without conceded goal": "1 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "Plymouth": " 20%",
+                "draw": " 30%",
+                "opponent": " 50%"
+            },
+            "Halftime 1 X 2": {
+                "Plymouth": " 10%",
+                "draw": " 70%",
+                "opponent": " 20%"
+            },
+            "Second half 1 X 2": {
+                "Plymouth": " 10%",
+                "draw": " 50%",
+                "opponent": " 40%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 80%",
+                "under": " 20%"
+            },
+            "Over/under 1.5 goals for Plymouth only": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 40%",
+                "under": " 60%"
+            },
+            "Over/under 2.5 goals for Plymouth only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 30%",
+                "under": " 70%"
+            },
+            "Over/under 3.5 goals for Plymouth only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Goal bands": {
+                "0-1": " 20%",
+                "2-3": " 50%",
+                "4+": " 30%"
+            },
+            "Team to score": {
+                "both": " 40%",
+                "only one": " 50%",
+                "neither": " 10%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 20%",
+                "even": " 80%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 8%",
+                "16-30 min.": " 4%",
+                "31-45 min.": " 21%",
+                "46-60 min.": " 21%",
+                "61-75 min.": " 21%",
+                "76-90 min.": " 25%"
+            },
+            "Plymouth goals only": {
+                "0-15 min.": " 0%",
+                "16-30 min.": " 0%",
+                "31-45 min.": " 29%",
+                "46-60 min.": " 29%",
+                "61-75 min.": " 14%",
+                "76-90 min.": " 29%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 10%",
+                "11-20 min.": " 10%",
+                "21-30 min.": " 0%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 20%",
+                "51-60 min.": " 30%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 10%",
+                "without goal": " 10%"
+            },
+            "Time of first Plymouth goal": {
+                "0-10 min.": " 0%",
+                "11-20 min.": " 0%",
+                "21-30 min.": " 0%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 10%",
+                "61-70 min.": " 10%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 10%",
+                "without goal": " 50%"
+            },
+            "First goal in matches": {
+                "Plymouth": " 40%",
+                "opponent": " 50%",
+                "without goal": " 10%"
+            },
+            "Winner after 15 minutes": {
+                "Plymouth": " 0%",
+                "opponent": " 20%",
+                "draw": " 80%"
+            },
+            "Winner after 30 minutes": {
+                "Plymouth": " 0%",
+                "opponent": " 20%",
+                "draw": " 80%"
+            },
+            "Winner after 45 minutes": {
+                "Plymouth": " 10%",
+                "opponent": " 20%",
+                "draw": " 70%"
+            },
+            "Winner after 60 minutes": {
+                "Plymouth": " 20%",
+                "opponent": " 50%",
+                "draw": " 30%"
+            },
+            "Winner after 75 minutes": {
+                "Plymouth": " 10%",
+                "opponent": " 50%",
+                "draw": " 40%"
+            },
+            "Winner after 90 minutes": {
+                "Plymouth": " 20%",
+                "opponent": " 50%",
+                "draw": " 30%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 50%",
+                "2-3 goals": " 40%",
+                "4+ goals": " 10%"
+            },
+            "Half with most goals": {
+                "first half": " 50%",
+                "second half": " 20%",
+                "tie": " 30%"
+            }
+        }
+    }
+}

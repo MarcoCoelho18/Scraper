@@ -1,0 +1,327 @@
+{
+    "match_info": {
+        "id": 502137,
+        "league_name": "Championship",
+        "league_code": "ELC",
+        "country": "England",
+        "home_team_long": "Burnley FC",
+        "home_team_short": "Burnley",
+        "away_team_long": "Bristol City FC",
+        "away_team_short": "Bristol City",
+        "date": "2025-03-29T15:00:00Z"
+    },
+    "home_stats": {
+        "general_statistics": {
+            "Number of Burnley wins": "5",
+            "Number of Burnley draws": "5",
+            "Number of Burnley loses": "0",
+            "Average scored goals per match": "1.4",
+            "Average conceded goals per match": "0.2",
+            "Chance to score goal next match": "60%",
+            "Chance to conceded goal next match": "20%",
+            "Number of clean sheet matches": "8",
+            "Failure to score matches": "4",
+            "Matches over 2.5 goals in": "3",
+            "Matches under 2.5 goals in": "7",
+            "Time without scored goal": "67 min.",
+            "Time without conceded goal": "70 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "Burnley": " 50%",
+                "draw": " 50%",
+                "opponent": " 0%"
+            },
+            "Halftime 1 X 2": {
+                "Burnley": " 50%",
+                "draw": " 50%",
+                "opponent": " 0%"
+            },
+            "Second half 1 X 2": {
+                "Burnley": " 20%",
+                "draw": " 80%",
+                "opponent": " 0%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 50%",
+                "under": " 50%"
+            },
+            "Over/under 1.5 goals for Burnley only": {
+                "over": " 40%",
+                "under": " 60%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 30%",
+                "under": " 70%"
+            },
+            "Over/under 2.5 goals for Burnley only": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Over/under 3.5 goals for Burnley only": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Goal bands": {
+                "0-1": " 50%",
+                "2-3": " 30%",
+                "4+": " 20%"
+            },
+            "Team to score": {
+                "both": " 20%",
+                "only one": " 40%",
+                "neither": " 40%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 20%",
+                "even": " 80%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 13%",
+                "16-30 min.": " 25%",
+                "31-45 min.": " 19%",
+                "46-60 min.": " 6%",
+                "61-75 min.": " 19%",
+                "76-90 min.": " 19%"
+            },
+            "Burnley goals only": {
+                "0-15 min.": " 14%",
+                "16-30 min.": " 21%",
+                "31-45 min.": " 21%",
+                "46-60 min.": " 7%",
+                "61-75 min.": " 21%",
+                "76-90 min.": " 14%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 20%",
+                "11-20 min.": " 10%",
+                "21-30 min.": " 10%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 0%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 0%",
+                "without goal": " 40%"
+            },
+            "Time of first Burnley goal": {
+                "0-10 min.": " 20%",
+                "11-20 min.": " 0%",
+                "21-30 min.": " 20%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 0%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 0%",
+                "without goal": " 40%"
+            },
+            "First goal in matches": {
+                "Burnley": " 50%",
+                "opponent": " 10%",
+                "without goal": " 40%"
+            },
+            "Winner after 15 minutes": {
+                "Burnley": " 20%",
+                "opponent": " 0%",
+                "draw": " 80%"
+            },
+            "Winner after 30 minutes": {
+                "Burnley": " 30%",
+                "opponent": " 0%",
+                "draw": " 70%"
+            },
+            "Winner after 45 minutes": {
+                "Burnley": " 50%",
+                "opponent": " 0%",
+                "draw": " 50%"
+            },
+            "Winner after 60 minutes": {
+                "Burnley": " 50%",
+                "opponent": " 0%",
+                "draw": " 50%"
+            },
+            "Winner after 75 minutes": {
+                "Burnley": " 50%",
+                "opponent": " 0%",
+                "draw": " 50%"
+            },
+            "Winner after 90 minutes": {
+                "Burnley": " 50%",
+                "opponent": " 0%",
+                "draw": " 50%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 70%",
+                "2-3 goals": " 10%",
+                "4+ goals": " 20%"
+            },
+            "Half with most goals": {
+                "first half": " 50%",
+                "second half": " 0%",
+                "tie": " 50%"
+            }
+        }
+    },
+    "away_stats": {
+        "general_statistics": {
+            "Number of Bristol City wins": "1",
+            "Number of Bristol City draws": "6",
+            "Number of Bristol City loses": "3",
+            "Average scored goals per match": "1",
+            "Average conceded goals per match": "1.4",
+            "Chance to score goal next match": "70%",
+            "Chance to conceded goal next match": "90%",
+            "Number of clean sheet matches": "1",
+            "Failure to score matches": "3",
+            "Matches over 2.5 goals in": "3",
+            "Matches under 2.5 goals in": "7",
+            "Time without scored goal": "0 min.",
+            "Time without conceded goal": "29 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "Bristol City": " 10%",
+                "draw": " 60%",
+                "opponent": " 30%"
+            },
+            "Halftime 1 X 2": {
+                "Bristol City": " 10%",
+                "draw": " 60%",
+                "opponent": " 30%"
+            },
+            "Second half 1 X 2": {
+                "Bristol City": " 20%",
+                "draw": " 50%",
+                "opponent": " 30%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 90%",
+                "under": " 10%"
+            },
+            "Over/under 1.5 goals for Bristol City only": {
+                "over": " 30%",
+                "under": " 70%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 30%",
+                "under": " 70%"
+            },
+            "Over/under 2.5 goals for Bristol City only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Over/under 3.5 goals for Bristol City only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Goal bands": {
+                "0-1": " 10%",
+                "2-3": " 70%",
+                "4+": " 20%"
+            },
+            "Team to score": {
+                "both": " 60%",
+                "only one": " 40%",
+                "neither": " 0%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 20%",
+                "even": " 80%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 0%",
+                "16-30 min.": " 8%",
+                "31-45 min.": " 13%",
+                "46-60 min.": " 29%",
+                "61-75 min.": " 25%",
+                "76-90 min.": " 25%"
+            },
+            "Bristol City goals only": {
+                "0-15 min.": " 0%",
+                "16-30 min.": " 0%",
+                "31-45 min.": " 10%",
+                "46-60 min.": " 40%",
+                "61-75 min.": " 20%",
+                "76-90 min.": " 30%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 0%",
+                "11-20 min.": " 20%",
+                "21-30 min.": " 0%",
+                "31-40 min.": " 20%",
+                "41-50 min.": " 0%",
+                "51-60 min.": " 30%",
+                "61-70 min.": " 30%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 0%",
+                "without goal": " 0%"
+            },
+            "Time of first Bristol City goal": {
+                "0-10 min.": " 0%",
+                "11-20 min.": " 0%",
+                "21-30 min.": " 0%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 0%",
+                "51-60 min.": " 30%",
+                "61-70 min.": " 20%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 10%",
+                "without goal": " 30%"
+            },
+            "First goal in matches": {
+                "Bristol City": " 40%",
+                "opponent": " 60%",
+                "without goal": " 0%"
+            },
+            "Winner after 15 minutes": {
+                "Bristol City": " 0%",
+                "opponent": " 0%",
+                "draw": " 100%"
+            },
+            "Winner after 30 minutes": {
+                "Bristol City": " 0%",
+                "opponent": " 20%",
+                "draw": " 80%"
+            },
+            "Winner after 45 minutes": {
+                "Bristol City": " 10%",
+                "opponent": " 30%",
+                "draw": " 60%"
+            },
+            "Winner after 60 minutes": {
+                "Bristol City": " 30%",
+                "opponent": " 40%",
+                "draw": " 30%"
+            },
+            "Winner after 75 minutes": {
+                "Bristol City": " 40%",
+                "opponent": " 50%",
+                "draw": " 10%"
+            },
+            "Winner after 90 minutes": {
+                "Bristol City": " 10%",
+                "opponent": " 30%",
+                "draw": " 60%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 70%",
+                "2-3 goals": " 30%",
+                "4+ goals": " 0%"
+            },
+            "Half with most goals": {
+                "first half": " 30%",
+                "second half": " 10%",
+                "tie": " 60%"
+            }
+        }
+    }
+}

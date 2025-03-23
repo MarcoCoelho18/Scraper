@@ -38,16 +38,27 @@ def step_two(json_file, date):
                 # Save match info
                 save_game_data(game_folder, match, "match_info.json")
                 
-                # Scrape and save home team stats
+                # Scrape home team stats
                 home_stats = scrape_team_stats(validated_home_team, "home", home_country)
-                if home_stats:
-                    save_game_data(game_folder, home_stats, f"{validated_home_team}_home_stats.json")
                 time.sleep(1)  # Reduced delay to 1 second
                 
-                # Scrape and save away team stats
+                # Scrape away team stats
                 away_stats = scrape_team_stats(validated_away_team, "away", away_country)
-                if away_stats:
-                    save_game_data(game_folder, away_stats, f"{validated_away_team}_away_stats.json")
                 time.sleep(1)  # Reduced delay to 1 second
+                
+                # Combine home and away stats into a single dictionary
+                combined_data = {
+                    "match_info": match,
+                    "home_stats": home_stats,
+                    "away_stats": away_stats
+                }
+                
+                # Create a JSON file for the match
+                match_filename = f"{validated_home_team}_x_{validated_away_team}.json"
+                match_filepath = os.path.join(game_folder, match_filename)
+                with open(match_filepath, 'w', encoding='utf-8') as f:
+                    json.dump(combined_data, f, indent=4)
+                
+                logging.info(f"Saved combined match data to {match_filepath}")
             else:
                 logging.error(f"Skipping game {home_team} vs {away_team} due to invalid team names.")

@@ -1,0 +1,327 @@
+{
+    "match_info": {
+        "id": 502138,
+        "league_name": "Championship",
+        "league_code": "ELC",
+        "country": "England",
+        "home_team_long": "Middlesbrough FC",
+        "home_team_short": "Middlesbrough",
+        "away_team_long": "Oxford United FC",
+        "away_team_short": "Oxford United",
+        "date": "2025-03-29T15:00:00Z"
+    },
+    "home_stats": {
+        "general_statistics": {
+            "Number of Middlesbrough wins": "4",
+            "Number of Middlesbrough draws": "3",
+            "Number of Middlesbrough loses": "3",
+            "Average scored goals per match": "1.2",
+            "Average conceded goals per match": "1",
+            "Chance to score goal next match": "70%",
+            "Chance to conceded goal next match": "60%",
+            "Number of clean sheet matches": "4",
+            "Failure to score matches": "3",
+            "Matches over 2.5 goals in": "3",
+            "Matches under 2.5 goals in": "7",
+            "Time without scored goal": "32 min.",
+            "Time without conceded goal": "10 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "Middlesbrough": " 40%",
+                "draw": " 30%",
+                "opponent": " 30%"
+            },
+            "Halftime 1 X 2": {
+                "Middlesbrough": " 40%",
+                "draw": " 50%",
+                "opponent": " 10%"
+            },
+            "Second half 1 X 2": {
+                "Middlesbrough": " 20%",
+                "draw": " 50%",
+                "opponent": " 30%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 50%",
+                "under": " 50%"
+            },
+            "Over/under 1.5 goals for Middlesbrough only": {
+                "over": " 40%",
+                "under": " 60%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 30%",
+                "under": " 70%"
+            },
+            "Over/under 2.5 goals for Middlesbrough only": {
+                "over": " 10%",
+                "under": " 90%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Over/under 3.5 goals for Middlesbrough only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Goal bands": {
+                "0-1": " 50%",
+                "2-3": " 30%",
+                "4+": " 20%"
+            },
+            "Team to score": {
+                "both": " 40%",
+                "only one": " 50%",
+                "neither": " 10%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 60%",
+                "even": " 40%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 27%",
+                "16-30 min.": " 14%",
+                "31-45 min.": " 9%",
+                "46-60 min.": " 23%",
+                "61-75 min.": " 9%",
+                "76-90 min.": " 18%"
+            },
+            "Middlesbrough goals only": {
+                "0-15 min.": " 50%",
+                "16-30 min.": " 17%",
+                "31-45 min.": " 0%",
+                "46-60 min.": " 17%",
+                "61-75 min.": " 0%",
+                "76-90 min.": " 17%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 20%",
+                "11-20 min.": " 30%",
+                "21-30 min.": " 10%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 0%",
+                "51-60 min.": " 0%",
+                "61-70 min.": " 10%",
+                "71-80 min.": " 10%",
+                "81-90 min.": " 0%",
+                "without goal": " 10%"
+            },
+            "Time of first Middlesbrough goal": {
+                "0-10 min.": " 20%",
+                "11-20 min.": " 30%",
+                "21-30 min.": " 10%",
+                "31-40 min.": " 0%",
+                "41-50 min.": " 0%",
+                "51-60 min.": " 0%",
+                "61-70 min.": " 0%",
+                "71-80 min.": " 10%",
+                "81-90 min.": " 0%",
+                "without goal": " 30%"
+            },
+            "First goal in matches": {
+                "Middlesbrough": " 70%",
+                "opponent": " 20%",
+                "without goal": " 10%"
+            },
+            "Winner after 15 minutes": {
+                "Middlesbrough": " 50%",
+                "opponent": " 0%",
+                "draw": " 50%"
+            },
+            "Winner after 30 minutes": {
+                "Middlesbrough": " 50%",
+                "opponent": " 0%",
+                "draw": " 50%"
+            },
+            "Winner after 45 minutes": {
+                "Middlesbrough": " 40%",
+                "opponent": " 10%",
+                "draw": " 50%"
+            },
+            "Winner after 60 minutes": {
+                "Middlesbrough": " 40%",
+                "opponent": " 10%",
+                "draw": " 50%"
+            },
+            "Winner after 75 minutes": {
+                "Middlesbrough": " 30%",
+                "opponent": " 20%",
+                "draw": " 50%"
+            },
+            "Winner after 90 minutes": {
+                "Middlesbrough": " 40%",
+                "opponent": " 30%",
+                "draw": " 30%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 90%",
+                "2-3 goals": " 10%",
+                "4+ goals": " 0%"
+            },
+            "Half with most goals": {
+                "first half": " 40%",
+                "second half": " 30%",
+                "tie": " 30%"
+            }
+        }
+    },
+    "away_stats": {
+        "general_statistics": {
+            "Number of Oxford United wins": "1",
+            "Number of Oxford United draws": "5",
+            "Number of Oxford United loses": "4",
+            "Average scored goals per match": "0.6",
+            "Average conceded goals per match": "1.1",
+            "Chance to score goal next match": "60%",
+            "Chance to conceded goal next match": "70%",
+            "Number of clean sheet matches": "3",
+            "Failure to score matches": "4",
+            "Matches over 2.5 goals in": "2",
+            "Matches under 2.5 goals in": "8",
+            "Time without scored goal": "24 min.",
+            "Time without conceded goal": "17 min."
+        },
+        "team_bet_statistics": {
+            "1 X 2": {
+                "Oxford United": " 10%",
+                "draw": " 50%",
+                "opponent": " 40%"
+            },
+            "Halftime 1 X 2": {
+                "Oxford United": " 20%",
+                "draw": " 50%",
+                "opponent": " 30%"
+            },
+            "Second half 1 X 2": {
+                "Oxford United": " 10%",
+                "draw": " 40%",
+                "opponent": " 50%"
+            },
+            "Over/under 1.5 for all goals in matches": {
+                "over": " 60%",
+                "under": " 40%"
+            },
+            "Over/under 1.5 goals for Oxford United only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Over/under 2.5 for all goals in matches": {
+                "over": " 20%",
+                "under": " 80%"
+            },
+            "Over/under 2.5 goals for Oxford United only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Over/under 3.5 for all goals in matches": {
+                "over": " 10%",
+                "under": " 90%"
+            },
+            "Over/under 3.5 goals for Oxford United only": {
+                "over": " 0%",
+                "under": " 100%"
+            },
+            "Goal bands": {
+                "0-1": " 40%",
+                "2-3": " 50%",
+                "4+": " 10%"
+            },
+            "Team to score": {
+                "both": " 50%",
+                "only one": " 30%",
+                "neither": " 20%"
+            },
+            "Odd/even goals in matches": {
+                "odd": " 30%",
+                "even": " 70%"
+            },
+            "All goals in matches": {
+                "0-15 min.": " 18%",
+                "16-30 min.": " 18%",
+                "31-45 min.": " 18%",
+                "46-60 min.": " 6%",
+                "61-75 min.": " 29%",
+                "76-90 min.": " 12%"
+            },
+            "Oxford United goals only": {
+                "0-15 min.": " 17%",
+                "16-30 min.": " 33%",
+                "31-45 min.": " 17%",
+                "46-60 min.": " 17%",
+                "61-75 min.": " 17%",
+                "76-90 min.": " 0%"
+            },
+            "Time of first goal in matches": {
+                "0-10 min.": " 10%",
+                "11-20 min.": " 20%",
+                "21-30 min.": " 10%",
+                "31-40 min.": " 10%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 10%",
+                "61-70 min.": " 10%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 0%",
+                "without goal": " 20%"
+            },
+            "Time of first Oxford United goal": {
+                "0-10 min.": " 0%",
+                "11-20 min.": " 20%",
+                "21-30 min.": " 10%",
+                "31-40 min.": " 0%",
+                "41-50 min.": " 10%",
+                "51-60 min.": " 10%",
+                "61-70 min.": " 10%",
+                "71-80 min.": " 0%",
+                "81-90 min.": " 0%",
+                "without goal": " 40%"
+            },
+            "First goal in matches": {
+                "Oxford United": " 50%",
+                "opponent": " 30%",
+                "without goal": " 20%"
+            },
+            "Winner after 15 minutes": {
+                "Oxford United": " 10%",
+                "opponent": " 20%",
+                "draw": " 70%"
+            },
+            "Winner after 30 minutes": {
+                "Oxford United": " 10%",
+                "opponent": " 10%",
+                "draw": " 80%"
+            },
+            "Winner after 45 minutes": {
+                "Oxford United": " 20%",
+                "opponent": " 30%",
+                "draw": " 50%"
+            },
+            "Winner after 60 minutes": {
+                "Oxford United": " 30%",
+                "opponent": " 30%",
+                "draw": " 40%"
+            },
+            "Winner after 75 minutes": {
+                "Oxford United": " 10%",
+                "opponent": " 30%",
+                "draw": " 60%"
+            },
+            "Winner after 90 minutes": {
+                "Oxford United": " 10%",
+                "opponent": " 40%",
+                "draw": " 50%"
+            },
+            "Goal difference in match": {
+                "0-1 goal": " 80%",
+                "2-3 goals": " 20%",
+                "4+ goals": " 0%"
+            },
+            "Half with most goals": {
+                "first half": " 40%",
+                "second half": " 10%",
+                "tie": " 50%"
+            }
+        }
+    }
+}
