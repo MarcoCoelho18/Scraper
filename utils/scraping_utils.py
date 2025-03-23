@@ -2,14 +2,19 @@ import requests
 from bs4 import BeautifulSoup
 import logging
 
+
 def construct_url(club, game_type, country):
-    team_name_exceptions = {
-        "Unione Venezia": "Venezia FC",
-        "Leganés": "CD Leganés",
-        # Add more exceptions as needed
-    }
-    # Append the country to the club name
-    club = f"{club} ({country})"
+
+    # Check if the competition is a UEFA competition
+    
+    teams_requiring_country_tag = ["Barcelona"]
+    if club in teams_requiring_country_tag:
+        club = f"{club} ({country})"
+    # If the competition is a UEFA competition, exclude the country code
+    if country == "Europe":
+        club = club  # Use the club name as is, without appending the country
+    else:
+        club = f"{club} ({country})"  # Append the country for non-UEFA competitions
     
     # Replace spaces with %20 for URL encoding
     club = club.replace(' ', '%20')

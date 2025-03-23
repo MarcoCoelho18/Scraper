@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Go Ahead Eagles wins": "3",
+        "Number of Go Ahead Eagles draws": "3",
+        "Number of Go Ahead Eagles loses": "4",
+        "Average scored goals per match": "1.8",
+        "Average conceded goals per match": "1.9",
+        "Chance to score goal next match": "80%",
+        "Chance to conceded goal next match": "90%",
+        "Number of clean sheet matches": "1",
+        "Failure to score matches": "2",
+        "Matches over 2.5 goals in": "7",
+        "Matches under 2.5 goals in": "3",
+        "Time without scored goal": "15 min.",
+        "Time without conceded goal": "0 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Go Ahead Eagles": " 30%",
+            "draw": " 30%",
+            "opponent": " 40%"
+        },
+        "Halftime 1 X 2": {
+            "Go Ahead Eagles": " 50%",
+            "draw": " 30%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "Go Ahead Eagles": " 20%",
+            "draw": " 30%",
+            "opponent": " 50%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 90%",
+            "under": " 10%"
+        },
+        "Over/under 1.5 goals for Go Ahead Eagles only": {
+            "over": " 70%",
+            "under": " 30%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 70%",
+            "under": " 30%"
+        },
+        "Over/under 2.5 goals for Go Ahead Eagles only": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 3.5 goals for Go Ahead Eagles only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 10%",
+            "2-3": " 40%",
+            "4+": " 50%"
+        },
+        "Team to score": {
+            "both": " 70%",
+            "only one": " 30%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 50%",
+            "even": " 50%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 5%",
+            "16-30 min.": " 11%",
+            "31-45 min.": " 22%",
+            "46-60 min.": " 14%",
+            "61-75 min.": " 22%",
+            "76-90 min.": " 27%"
+        },
+        "Go Ahead Eagles goals only": {
+            "0-15 min.": " 6%",
+            "16-30 min.": " 22%",
+            "31-45 min.": " 22%",
+            "46-60 min.": " 11%",
+            "61-75 min.": " 22%",
+            "76-90 min.": " 17%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 0%",
+            "21-30 min.": " 30%",
+            "31-40 min.": " 40%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first Go Ahead Eagles goal": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 0%",
+            "21-30 min.": " 30%",
+            "31-40 min.": " 20%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 20%"
+        },
+        "First goal in matches": {
+            "Go Ahead Eagles": " 70%",
+            "opponent": " 30%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Go Ahead Eagles": " 0%",
+            "opponent": " 0%",
+            "draw": " 100%"
+        },
+        "Winner after 30 minutes": {
+            "Go Ahead Eagles": " 30%",
+            "opponent": " 0%",
+            "draw": " 70%"
+        },
+        "Winner after 45 minutes": {
+            "Go Ahead Eagles": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Winner after 60 minutes": {
+            "Go Ahead Eagles": " 50%",
+            "opponent": " 30%",
+            "draw": " 20%"
+        },
+        "Winner after 75 minutes": {
+            "Go Ahead Eagles": " 40%",
+            "opponent": " 40%",
+            "draw": " 20%"
+        },
+        "Winner after 90 minutes": {
+            "Go Ahead Eagles": " 30%",
+            "opponent": " 40%",
+            "draw": " 30%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 70%",
+            "2-3 goals": " 30%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 40%",
+            "second half": " 30%",
+            "tie": " 30%"
+        }
+    }
+}

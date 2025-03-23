@@ -25,13 +25,6 @@ def normalize_text(text):
     """
     return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
 
-def normalize_text(text):
-    """
-    Normalizes accented characters in the text.
-    Example: "Atlético Madrid" -> "Atletico Madrid"
-    """
-    return unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
-
 def map_team_name(team_name):
     """
     Maps team names to a standardized format using TEAM_NAME_MAPPING.

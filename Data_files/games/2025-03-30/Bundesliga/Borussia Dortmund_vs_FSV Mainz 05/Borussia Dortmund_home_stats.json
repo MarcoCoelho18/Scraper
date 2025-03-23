@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Borussia Dortmund wins": "2",
+        "Number of Borussia Dortmund draws": "4",
+        "Number of Borussia Dortmund loses": "4",
+        "Average scored goals per match": "1.8",
+        "Average conceded goals per match": "1.5",
+        "Chance to score goal next match": "80%",
+        "Chance to conceded goal next match": "80%",
+        "Number of clean sheet matches": "2",
+        "Failure to score matches": "2",
+        "Matches over 2.5 goals in": "6",
+        "Matches under 2.5 goals in": "4",
+        "Time without scored goal": "158 min.",
+        "Time without conceded goal": "67 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Borussia Dortmund": " 20%",
+            "draw": " 40%",
+            "opponent": " 40%"
+        },
+        "Halftime 1 X 2": {
+            "Borussia Dortmund": " 40%",
+            "draw": " 40%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "Borussia Dortmund": " 20%",
+            "draw": " 30%",
+            "opponent": " 50%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 90%",
+            "under": " 10%"
+        },
+        "Over/under 1.5 goals for Borussia Dortmund only": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 2.5 goals for Borussia Dortmund only": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 3.5 goals for Borussia Dortmund only": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Goal bands": {
+            "0-1": " 10%",
+            "2-3": " 40%",
+            "4+": " 50%"
+        },
+        "Team to score": {
+            "both": " 70%",
+            "only one": " 20%",
+            "neither": " 10%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 30%",
+            "even": " 70%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 9%",
+            "16-30 min.": " 18%",
+            "31-45 min.": " 6%",
+            "46-60 min.": " 21%",
+            "61-75 min.": " 18%",
+            "76-90 min.": " 27%"
+        },
+        "Borussia Dortmund goals only": {
+            "0-15 min.": " 6%",
+            "16-30 min.": " 22%",
+            "31-45 min.": " 11%",
+            "46-60 min.": " 17%",
+            "61-75 min.": " 6%",
+            "76-90 min.": " 39%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 40%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 20%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 10%"
+        },
+        "Time of first Borussia Dortmund goal": {
+            "0-10 min.": " 0%",
+            "11-20 min.": " 20%",
+            "21-30 min.": " 30%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 10%",
+            "without goal": " 20%"
+        },
+        "First goal in matches": {
+            "Borussia Dortmund": " 50%",
+            "opponent": " 40%",
+            "without goal": " 10%"
+        },
+        "Winner after 15 minutes": {
+            "Borussia Dortmund": " 0%",
+            "opponent": " 10%",
+            "draw": " 90%"
+        },
+        "Winner after 30 minutes": {
+            "Borussia Dortmund": " 40%",
+            "opponent": " 20%",
+            "draw": " 40%"
+        },
+        "Winner after 45 minutes": {
+            "Borussia Dortmund": " 40%",
+            "opponent": " 20%",
+            "draw": " 40%"
+        },
+        "Winner after 60 minutes": {
+            "Borussia Dortmund": " 50%",
+            "opponent": " 30%",
+            "draw": " 20%"
+        },
+        "Winner after 75 minutes": {
+            "Borussia Dortmund": " 30%",
+            "opponent": " 40%",
+            "draw": " 30%"
+        },
+        "Winner after 90 minutes": {
+            "Borussia Dortmund": " 20%",
+            "opponent": " 40%",
+            "draw": " 40%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 70%",
+            "2-3 goals": " 20%",
+            "4+ goals": " 10%"
+        },
+        "Half with most goals": {
+            "first half": " 20%",
+            "second half": " 40%",
+            "tie": " 40%"
+        }
+    }
+}

@@ -27,7 +27,7 @@ valid_teams = [
     "Millwall", "Sheffield Wed", "Norwich", "Preston", "QPR", "Swansea", "Portsmouth", "Oxford United", "Hull City", "Stoke City", 
     "Cardiff", "Derby", "Luton", "Plymouth",
     # LaLiga Teams
-    "Barcelona (Spain)", "Real Madrid", "Atletico Madrid", "Athletic Club", "Villarreal", "Betis", "Mallorca", "Celta Vigo", "Rayo Vallecano", "Sevilla", 
+    "Barcelona", "Real Madrid", "Atletico Madrid", "Athletic Club", "Villarreal", "Betis", "Mallorca", "Celta Vigo", "Rayo Vallecano", "Sevilla", 
     "Getafe", "Real Sociedad", "Girona", "Osasuna", "Espanyol", "Valencia", "Deportivo Alaves", "Leganes", "Las Palmas", "Valladolid", 
     # LaLiga2 Teams
     "Levante", "Racing Santander", "Mirandes", "Elche", "Huesca", "Oviedo", "Almeria", "Granada CF", "Cadiz", "Cordoba", 
@@ -168,5 +168,11 @@ TEAM_NAME_MAPPING = {
     "Venezia FC": "Unione Venezia",
     "Queens Park Rangers FC": "QPR",
     "Sheffield United FC": "Sheffield Utd",
+    "FC Barcelona": "Barcelona",
+    "Stade Rennais FC 1901": "Rennes",
+    "Vitoria SC": "Guimaraes",
+    "FC Bayern Munchen": "Bayern Munich",
+    "RCD Espanyol de Barcelona": "Espanyol",
+    
     # Add more mappings as needed
 }

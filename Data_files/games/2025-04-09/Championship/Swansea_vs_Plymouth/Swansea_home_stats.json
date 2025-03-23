@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Swansea wins": "4",
+        "Number of Swansea draws": "1",
+        "Number of Swansea loses": "5",
+        "Average scored goals per match": "1.3",
+        "Average conceded goals per match": "1.2",
+        "Chance to score goal next match": "70%",
+        "Chance to conceded goal next match": "70%",
+        "Number of clean sheet matches": "3",
+        "Failure to score matches": "3",
+        "Matches over 2.5 goals in": "5",
+        "Matches under 2.5 goals in": "5",
+        "Time without scored goal": "154 min.",
+        "Time without conceded goal": "68 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Swansea": " 40%",
+            "draw": " 10%",
+            "opponent": " 50%"
+        },
+        "Halftime 1 X 2": {
+            "Swansea": " 50%",
+            "draw": " 30%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "Swansea": " 20%",
+            "draw": " 50%",
+            "opponent": " 30%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 80%",
+            "under": " 20%"
+        },
+        "Over/under 1.5 goals for Swansea only": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 2.5 goals for Swansea only": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 goals for Swansea only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 20%",
+            "2-3": " 70%",
+            "4+": " 10%"
+        },
+        "Team to score": {
+            "both": " 40%",
+            "only one": " 60%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 70%",
+            "even": " 30%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 20%",
+            "16-30 min.": " 24%",
+            "31-45 min.": " 20%",
+            "46-60 min.": " 4%",
+            "61-75 min.": " 24%",
+            "76-90 min.": " 8%"
+        },
+        "Swansea goals only": {
+            "0-15 min.": " 23%",
+            "16-30 min.": " 23%",
+            "31-45 min.": " 31%",
+            "46-60 min.": " 0%",
+            "61-75 min.": " 8%",
+            "76-90 min.": " 15%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 40%",
+            "11-20 min.": " 20%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 20%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 0%"
+        },
+        "Time of first Swansea goal": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 20%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 10%",
+            "without goal": " 30%"
+        },
+        "First goal in matches": {
+            "Swansea": " 50%",
+            "opponent": " 50%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Swansea": " 30%",
+            "opponent": " 20%",
+            "draw": " 50%"
+        },
+        "Winner after 30 minutes": {
+            "Swansea": " 40%",
+            "opponent": " 30%",
+            "draw": " 30%"
+        },
+        "Winner after 45 minutes": {
+            "Swansea": " 50%",
+            "opponent": " 20%",
+            "draw": " 30%"
+        },
+        "Winner after 60 minutes": {
+            "Swansea": " 40%",
+            "opponent": " 20%",
+            "draw": " 40%"
+        },
+        "Winner after 75 minutes": {
+            "Swansea": " 30%",
+            "opponent": " 60%",
+            "draw": " 10%"
+        },
+        "Winner after 90 minutes": {
+            "Swansea": " 40%",
+            "opponent": " 50%",
+            "draw": " 10%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 60%",
+            "2-3 goals": " 40%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 40%",
+            "second half": " 50%",
+            "tie": " 10%"
+        }
+    }
+}

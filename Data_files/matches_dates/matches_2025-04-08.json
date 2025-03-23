@@ -1,0 +1,140 @@
+{
+    "Championship": [
+        {
+            "id": 500919,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Stoke City FC",
+            "home_team_short": "Stoke",
+            "away_team_long": "Luton Town FC",
+            "away_team_short": "Luton Town",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500917,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Preston North End FC",
+            "home_team_short": "Preston NE",
+            "away_team_long": "Cardiff City FC",
+            "away_team_short": "Cardiff",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500913,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Blackburn Rovers FC",
+            "home_team_short": "Blackburn",
+            "away_team_long": "Sheffield Wednesday FC",
+            "away_team_short": "Sheffield Wed",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500922,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Derby County FC",
+            "home_team_short": "Derby County",
+            "away_team_long": "Burnley FC",
+            "away_team_short": "Burnley",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500914,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Bristol City FC",
+            "home_team_short": "Bristol City",
+            "away_team_long": "West Bromwich Albion FC",
+            "away_team_short": "West Brom",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500916,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Norwich City FC",
+            "home_team_short": "Norwich",
+            "away_team_long": "Sunderland AFC",
+            "away_team_short": "Sunderland",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500918,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Sheffield Utd",
+            "home_team_short": "Sheffield Utd",
+            "away_team_long": "Millwall FC",
+            "away_team_short": "Millwall",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500920,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Watford FC",
+            "home_team_short": "Watford",
+            "away_team_long": "Hull City AFC",
+            "away_team_short": "Hull City",
+            "date": "2025-04-08T18:45:00Z"
+        },
+        {
+            "id": 500915,
+            "league_name": "Championship",
+            "league_code": "ELC",
+            "country": "England",
+            "home_team_long": "Middlesbrough FC",
+            "home_team_short": "Middlesbrough",
+            "away_team_long": "Leeds United FC",
+            "away_team_short": "Leeds United",
+            "date": "2025-04-08T19:00:00Z"
+        }
+    ],
+    "UEFA Champions League": [
+        {
+            "id": 524111,
+            "league_name": "UEFA Champions League",
+            "league_code": "CL",
+            "country": "Europe",
+            "home_team_long": "Bayern Munich",
+            "home_team_short": "Bayern",
+            "away_team_long": "FC Internazionale Milano",
+            "away_team_short": "Inter",
+            "date": "2025-04-08T19:00:00Z"
+        },
+        {
+            "id": 524108,
+            "league_name": "UEFA Champions League",
+            "league_code": "CL",
+            "country": "Europe",
+            "home_team_long": "Arsenal FC",
+            "home_team_short": "Arsenal",
+            "away_team_long": "Real Madrid CF",
+            "away_team_short": "Real Madrid",
+            "date": "2025-04-08T19:00:00Z"
+        }
+    ],
+    "Primera Division": [
+        {
+            "id": 498872,
+            "league_name": "Primera Division",
+            "league_code": "PD",
+            "country": "Spain",
+            "home_team_long": "Villarreal CF",
+            "home_team_short": "Villarreal",
+            "away_team_long": "Espanyol",
+            "away_team_short": "Espanyol",
+            "date": "2025-04-09T00:00:00Z"
+        }
+    ]
+}

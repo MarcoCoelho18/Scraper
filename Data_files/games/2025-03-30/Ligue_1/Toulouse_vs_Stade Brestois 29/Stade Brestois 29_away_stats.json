@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Stade Brestois 29 wins": "5",
+        "Number of Stade Brestois 29 draws": "1",
+        "Number of Stade Brestois 29 loses": "4",
+        "Average scored goals per match": "0.9",
+        "Average conceded goals per match": "1.5",
+        "Chance to score goal next match": "60%",
+        "Chance to conceded goal next match": "60%",
+        "Number of clean sheet matches": "4",
+        "Failure to score matches": "4",
+        "Matches over 2.5 goals in": "4",
+        "Matches under 2.5 goals in": "6",
+        "Time without scored goal": "75 min.",
+        "Time without conceded goal": "8 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Stade Brestois 29": " 50%",
+            "draw": " 10%",
+            "opponent": " 40%"
+        },
+        "Halftime 1 X 2": {
+            "Stade Brestois 29": " 40%",
+            "draw": " 30%",
+            "opponent": " 30%"
+        },
+        "Second half 1 X 2": {
+            "Stade Brestois 29": " 20%",
+            "draw": " 50%",
+            "opponent": " 30%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 70%",
+            "under": " 30%"
+        },
+        "Over/under 1.5 goals for Stade Brestois 29 only": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 2.5 goals for Stade Brestois 29 only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 goals for Stade Brestois 29 only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 30%",
+            "2-3": " 60%",
+            "4+": " 10%"
+        },
+        "Team to score": {
+            "both": " 30%",
+            "only one": " 60%",
+            "neither": " 10%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 60%",
+            "even": " 40%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 13%",
+            "16-30 min.": " 21%",
+            "31-45 min.": " 13%",
+            "46-60 min.": " 13%",
+            "61-75 min.": " 13%",
+            "76-90 min.": " 29%"
+        },
+        "Stade Brestois 29 goals only": {
+            "0-15 min.": " 22%",
+            "16-30 min.": " 22%",
+            "31-45 min.": " 11%",
+            "46-60 min.": " 11%",
+            "61-75 min.": " 11%",
+            "76-90 min.": " 22%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 30%",
+            "21-30 min.": " 20%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 10%"
+        },
+        "Time of first Stade Brestois 29 goal": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 20%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 0%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 40%"
+        },
+        "First goal in matches": {
+            "Stade Brestois 29": " 60%",
+            "opponent": " 30%",
+            "without goal": " 10%"
+        },
+        "Winner after 15 minutes": {
+            "Stade Brestois 29": " 20%",
+            "opponent": " 10%",
+            "draw": " 70%"
+        },
+        "Winner after 30 minutes": {
+            "Stade Brestois 29": " 30%",
+            "opponent": " 30%",
+            "draw": " 40%"
+        },
+        "Winner after 45 minutes": {
+            "Stade Brestois 29": " 40%",
+            "opponent": " 30%",
+            "draw": " 30%"
+        },
+        "Winner after 60 minutes": {
+            "Stade Brestois 29": " 40%",
+            "opponent": " 30%",
+            "draw": " 30%"
+        },
+        "Winner after 75 minutes": {
+            "Stade Brestois 29": " 40%",
+            "opponent": " 30%",
+            "draw": " 30%"
+        },
+        "Winner after 90 minutes": {
+            "Stade Brestois 29": " 50%",
+            "opponent": " 40%",
+            "draw": " 10%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 60%",
+            "2-3 goals": " 30%",
+            "4+ goals": " 10%"
+        },
+        "Half with most goals": {
+            "first half": " 40%",
+            "second half": " 50%",
+            "tie": " 10%"
+        }
+    }
+}

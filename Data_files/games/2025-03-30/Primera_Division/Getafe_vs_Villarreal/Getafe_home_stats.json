@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Getafe wins": "3",
+        "Number of Getafe draws": "4",
+        "Number of Getafe loses": "3",
+        "Average scored goals per match": "0.9",
+        "Average conceded goals per match": "0.8",
+        "Chance to score goal next match": "70%",
+        "Chance to conceded goal next match": "70%",
+        "Number of clean sheet matches": "3",
+        "Failure to score matches": "3",
+        "Matches over 2.5 goals in": "2",
+        "Matches under 2.5 goals in": "8",
+        "Time without scored goal": "0 min.",
+        "Time without conceded goal": "15 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Getafe": " 30%",
+            "draw": " 40%",
+            "opponent": " 30%"
+        },
+        "Halftime 1 X 2": {
+            "Getafe": " 20%",
+            "draw": " 50%",
+            "opponent": " 30%"
+        },
+        "Second half 1 X 2": {
+            "Getafe": " 30%",
+            "draw": " 50%",
+            "opponent": " 20%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 1.5 goals for Getafe only": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Over/under 2.5 goals for Getafe only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 3.5 goals for Getafe only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 40%",
+            "2-3": " 60%",
+            "4+": " 0%"
+        },
+        "Team to score": {
+            "both": " 50%",
+            "only one": " 40%",
+            "neither": " 10%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 50%",
+            "even": " 50%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 12%",
+            "16-30 min.": " 12%",
+            "31-45 min.": " 18%",
+            "46-60 min.": " 12%",
+            "61-75 min.": " 18%",
+            "76-90 min.": " 29%"
+        },
+        "Getafe goals only": {
+            "0-15 min.": " 11%",
+            "16-30 min.": " 11%",
+            "31-45 min.": " 11%",
+            "46-60 min.": " 0%",
+            "61-75 min.": " 22%",
+            "76-90 min.": " 44%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 20%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 10%",
+            "81-90 min.": " 0%",
+            "without goal": " 10%"
+        },
+        "Time of first Getafe goal": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 0%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 10%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 30%",
+            "without goal": " 30%"
+        },
+        "First goal in matches": {
+            "Getafe": " 30%",
+            "opponent": " 60%",
+            "without goal": " 10%"
+        },
+        "Winner after 15 minutes": {
+            "Getafe": " 10%",
+            "opponent": " 10%",
+            "draw": " 80%"
+        },
+        "Winner after 30 minutes": {
+            "Getafe": " 20%",
+            "opponent": " 20%",
+            "draw": " 60%"
+        },
+        "Winner after 45 minutes": {
+            "Getafe": " 20%",
+            "opponent": " 30%",
+            "draw": " 50%"
+        },
+        "Winner after 60 minutes": {
+            "Getafe": " 10%",
+            "opponent": " 40%",
+            "draw": " 50%"
+        },
+        "Winner after 75 minutes": {
+            "Getafe": " 20%",
+            "opponent": " 50%",
+            "draw": " 30%"
+        },
+        "Winner after 90 minutes": {
+            "Getafe": " 30%",
+            "opponent": " 30%",
+            "draw": " 40%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 90%",
+            "2-3 goals": " 10%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 30%",
+            "second half": " 30%",
+            "tie": " 40%"
+        }
+    }
+}

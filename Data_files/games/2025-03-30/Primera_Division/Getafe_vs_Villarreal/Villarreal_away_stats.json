@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Villarreal wins": "4",
+        "Number of Villarreal draws": "2",
+        "Number of Villarreal loses": "4",
+        "Average scored goals per match": "1.7",
+        "Average conceded goals per match": "1.2",
+        "Chance to score goal next match": "60%",
+        "Chance to conceded goal next match": "90%",
+        "Number of clean sheet matches": "1",
+        "Failure to score matches": "4",
+        "Matches over 2.5 goals in": "4",
+        "Matches under 2.5 goals in": "6",
+        "Time without scored goal": "114 min.",
+        "Time without conceded goal": "79 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Villarreal": " 40%",
+            "draw": " 20%",
+            "opponent": " 40%"
+        },
+        "Halftime 1 X 2": {
+            "Villarreal": " 20%",
+            "draw": " 50%",
+            "opponent": " 30%"
+        },
+        "Second half 1 X 2": {
+            "Villarreal": " 40%",
+            "draw": " 20%",
+            "opponent": " 40%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 60%",
+            "under": " 40%"
+        },
+        "Over/under 1.5 goals for Villarreal only": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 40%",
+            "under": " 60%"
+        },
+        "Over/under 2.5 goals for Villarreal only": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 3.5 goals for Villarreal only": {
+            "over": " 20%",
+            "under": " 80%"
+        },
+        "Goal bands": {
+            "0-1": " 40%",
+            "2-3": " 30%",
+            "4+": " 30%"
+        },
+        "Team to score": {
+            "both": " 50%",
+            "only one": " 50%",
+            "neither": " 0%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 70%",
+            "even": " 30%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 17%",
+            "16-30 min.": " 14%",
+            "31-45 min.": " 17%",
+            "46-60 min.": " 14%",
+            "61-75 min.": " 21%",
+            "76-90 min.": " 17%"
+        },
+        "Villarreal goals only": {
+            "0-15 min.": " 6%",
+            "16-30 min.": " 18%",
+            "31-45 min.": " 24%",
+            "46-60 min.": " 12%",
+            "61-75 min.": " 24%",
+            "76-90 min.": " 18%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 30%",
+            "11-20 min.": " 20%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 20%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 10%",
+            "without goal": " 0%"
+        },
+        "Time of first Villarreal goal": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 10%",
+            "31-40 min.": " 0%",
+            "41-50 min.": " 0%",
+            "51-60 min.": " 10%",
+            "61-70 min.": " 20%",
+            "71-80 min.": " 0%",
+            "81-90 min.": " 0%",
+            "without goal": " 40%"
+        },
+        "First goal in matches": {
+            "Villarreal": " 40%",
+            "opponent": " 60%",
+            "without goal": " 0%"
+        },
+        "Winner after 15 minutes": {
+            "Villarreal": " 10%",
+            "opponent": " 40%",
+            "draw": " 50%"
+        },
+        "Winner after 30 minutes": {
+            "Villarreal": " 20%",
+            "opponent": " 30%",
+            "draw": " 50%"
+        },
+        "Winner after 45 minutes": {
+            "Villarreal": " 20%",
+            "opponent": " 30%",
+            "draw": " 50%"
+        },
+        "Winner after 60 minutes": {
+            "Villarreal": " 20%",
+            "opponent": " 40%",
+            "draw": " 40%"
+        },
+        "Winner after 75 minutes": {
+            "Villarreal": " 40%",
+            "opponent": " 40%",
+            "draw": " 20%"
+        },
+        "Winner after 90 minutes": {
+            "Villarreal": " 40%",
+            "opponent": " 40%",
+            "draw": " 20%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 70%",
+            "2-3 goals": " 20%",
+            "4+ goals": " 10%"
+        },
+        "Half with most goals": {
+            "first half": " 40%",
+            "second half": " 40%",
+            "tie": " 20%"
+        }
+    }
+}

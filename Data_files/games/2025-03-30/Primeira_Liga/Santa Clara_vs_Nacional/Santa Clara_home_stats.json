@@ -1,0 +1,157 @@
+{
+    "general_statistics": {
+        "Number of Santa Clara wins": "5",
+        "Number of Santa Clara draws": "2",
+        "Number of Santa Clara loses": "3",
+        "Average scored goals per match": "1",
+        "Average conceded goals per match": "0.9",
+        "Chance to score goal next match": "70%",
+        "Chance to conceded goal next match": "60%",
+        "Number of clean sheet matches": "4",
+        "Failure to score matches": "3",
+        "Matches over 2.5 goals in": "3",
+        "Matches under 2.5 goals in": "7",
+        "Time without scored goal": "21 min.",
+        "Time without conceded goal": "3 min."
+    },
+    "team_bet_statistics": {
+        "1 X 2": {
+            "Santa Clara": " 50%",
+            "draw": " 20%",
+            "opponent": " 30%"
+        },
+        "Halftime 1 X 2": {
+            "Santa Clara": " 30%",
+            "draw": " 50%",
+            "opponent": " 20%"
+        },
+        "Second half 1 X 2": {
+            "Santa Clara": " 20%",
+            "draw": " 60%",
+            "opponent": " 20%"
+        },
+        "Over/under 1.5 for all goals in matches": {
+            "over": " 50%",
+            "under": " 50%"
+        },
+        "Over/under 1.5 goals for Santa Clara only": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 2.5 for all goals in matches": {
+            "over": " 30%",
+            "under": " 70%"
+        },
+        "Over/under 2.5 goals for Santa Clara only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Over/under 3.5 for all goals in matches": {
+            "over": " 10%",
+            "under": " 90%"
+        },
+        "Over/under 3.5 goals for Santa Clara only": {
+            "over": " 0%",
+            "under": " 100%"
+        },
+        "Goal bands": {
+            "0-1": " 50%",
+            "2-3": " 40%",
+            "4+": " 10%"
+        },
+        "Team to score": {
+            "both": " 40%",
+            "only one": " 50%",
+            "neither": " 10%"
+        },
+        "Odd/even goals in matches": {
+            "odd": " 70%",
+            "even": " 30%"
+        },
+        "All goals in matches": {
+            "0-15 min.": " 11%",
+            "16-30 min.": " 11%",
+            "31-45 min.": " 26%",
+            "46-60 min.": " 21%",
+            "61-75 min.": " 16%",
+            "76-90 min.": " 16%"
+        },
+        "Santa Clara goals only": {
+            "0-15 min.": " 10%",
+            "16-30 min.": " 0%",
+            "31-45 min.": " 40%",
+            "46-60 min.": " 20%",
+            "61-75 min.": " 20%",
+            "76-90 min.": " 10%"
+        },
+        "Time of first goal in matches": {
+            "0-10 min.": " 10%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 20%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 20%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 10%",
+            "81-90 min.": " 0%",
+            "without goal": " 10%"
+        },
+        "Time of first Santa Clara goal": {
+            "0-10 min.": " 0%",
+            "11-20 min.": " 10%",
+            "21-30 min.": " 0%",
+            "31-40 min.": " 30%",
+            "41-50 min.": " 10%",
+            "51-60 min.": " 0%",
+            "61-70 min.": " 10%",
+            "71-80 min.": " 10%",
+            "81-90 min.": " 0%",
+            "without goal": " 30%"
+        },
+        "First goal in matches": {
+            "Santa Clara": " 50%",
+            "opponent": " 40%",
+            "without goal": " 10%"
+        },
+        "Winner after 15 minutes": {
+            "Santa Clara": " 10%",
+            "opponent": " 10%",
+            "draw": " 80%"
+        },
+        "Winner after 30 minutes": {
+            "Santa Clara": " 0%",
+            "opponent": " 10%",
+            "draw": " 90%"
+        },
+        "Winner after 45 minutes": {
+            "Santa Clara": " 30%",
+            "opponent": " 20%",
+            "draw": " 50%"
+        },
+        "Winner after 60 minutes": {
+            "Santa Clara": " 40%",
+            "opponent": " 30%",
+            "draw": " 30%"
+        },
+        "Winner after 75 minutes": {
+            "Santa Clara": " 50%",
+            "opponent": " 30%",
+            "draw": " 20%"
+        },
+        "Winner after 90 minutes": {
+            "Santa Clara": " 50%",
+            "opponent": " 30%",
+            "draw": " 20%"
+        },
+        "Goal difference in match": {
+            "0-1 goal": " 90%",
+            "2-3 goals": " 10%",
+            "4+ goals": " 0%"
+        },
+        "Half with most goals": {
+            "first half": " 50%",
+            "second half": " 30%",
+            "tie": " 20%"
+        }
+    }
+}
